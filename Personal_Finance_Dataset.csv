@@ -1,0 +1,1828 @@
+date,description,category,amount,type
+2020-01-02,Breakfast,Food & Drink,1485.69,Expense
+2020-01-02,Gas Bill,Utilities,1475.58,Expense
+2020-01-04,House Rent,Rent,1185.08,Expense
+2020-01-13,Restaurant Dinner,Food & Drink,1126.88,Expense
+2020-01-14,Mall Shopping,Shopping,448.68,Expense
+2020-01-18,Restaurant Dinner,Food & Drink,1520.03,Expense
+2020-01-21,Concert Ticket,Entertainment,1914.85,Expense
+2020-01-25,Apartment Rent,Rent,766.06,Expense
+2020-01-25,Pharmacy Purchase,Health & Fitness,1211.41,Expense
+2020-01-26,Employer Deposit,Salary,1077.09,Expense
+2020-01-29,Mall Shopping,Shopping,166.81,Expense
+2020-01-30,Medical Expense,Health & Fitness,1158.93,Expense
+2020-01-31,Breakfast,Food & Drink,1325.91,Expense
+2020-01-31,Apartment Rent,Rent,1712.08,Expense
+2020-01-31,Mall Shopping,Shopping,563.17,Expense
+2020-02-02,Medical Expense,Health & Fitness,333.68,Expense
+2020-02-04,Uber Ride,Travel,1406.62,Expense
+2020-02-05,Monthly Rent,Rent,1222.17,Expense
+2020-02-07,Bus Travel,Travel,1979.15,Expense
+2020-02-07,Netflix Subscription,Entertainment,1372.38,Expense
+2020-02-08,Food Delivery,Food & Drink,465.81,Expense
+2020-02-09,Netflix Subscription,Entertainment,1827.14,Expense
+2020-02-11,Gym Membership,Health & Fitness,433.13,Expense
+2020-02-13,Employer Deposit,Salary,294.31,Expense
+2020-02-16,Clothing Purchase,Shopping,730.37,Expense
+2020-02-16,Electricity Bill,Utilities,1023.96,Expense
+2020-02-20,Clothing Purchase,Shopping,769.42,Expense
+2020-02-26,Uber Ride,Travel,1942.45,Expense
+2020-02-27,Cafe Visit,Food & Drink,1363.76,Expense
+2020-02-29,Bus Travel,Travel,1944.06,Expense
+2020-03-03,Apartment Rent,Rent,1742.33,Expense
+2020-03-04,Netflix Subscription,Entertainment,314.15,Expense
+2020-03-04,Food Delivery,Food & Drink,1201.9,Expense
+2020-03-09,House Rent,Rent,1858.91,Expense
+2020-03-09,Train Ticket,Travel,486.51,Expense
+2020-03-11,House Rent,Rent,180.45,Expense
+2020-03-11,Monthly Rent,Rent,1956.19,Expense
+2020-03-12,Mobile Recharge,Utilities,265.5,Expense
+2020-03-12,Electricity Bill,Utilities,537.46,Expense
+2020-03-14,Amazon Purchase,Shopping,1929.08,Expense
+2020-03-15,Gaming Purchase,Entertainment,1428.77,Expense
+2020-03-18,Gym Membership,Health & Fitness,881.82,Expense
+2020-03-21,Monthly Rent,Rent,503.33,Expense
+2020-03-23,Breakfast,Food & Drink,151.28,Expense
+2020-03-24,Concert Ticket,Entertainment,144.13,Expense
+2020-04-01,Taxi Fare,Travel,1341.27,Expense
+2020-04-05,Internet Bill,Utilities,1449.47,Expense
+2020-04-06,Salary Credit,Salary,493.56,Expense
+2020-04-06,Clothing Purchase,Shopping,388.92,Expense
+2020-04-17,Employer Deposit,Salary,1729.04,Expense
+2020-04-18,Medical Expense,Health & Fitness,1603.18,Expense
+2020-04-23,Gas Bill,Utilities,849.54,Expense
+2020-04-25,Gaming Purchase,Entertainment,1750.23,Expense
+2020-04-26,Lunch Outside,Food & Drink,1938.3,Expense
+2020-04-27,Gaming Purchase,Entertainment,340.96,Expense
+2020-04-27,Gaming Purchase,Entertainment,1730.65,Expense
+2020-04-29,Internet Bill,Utilities,764.16,Expense
+2020-04-30,Uber Ride,Travel,1853.77,Expense
+2020-05-01,Uber Ride,Travel,851.78,Expense
+2020-05-03,Employer Deposit,Salary,318.05,Expense
+2020-05-03,Restaurant Dinner,Food & Drink,1162.57,Expense
+2020-05-05,Pharmacy Purchase,Health & Fitness,123.76,Expense
+2020-05-06,Electricity Bill,Utilities,123.19,Expense
+2020-05-06,Internet Bill,Utilities,146.36,Expense
+2020-05-12,Grocery Shopping,Shopping,1318.17,Expense
+2020-05-13,Pharmacy Purchase,Health & Fitness,1870.07,Expense
+2020-05-14,Gym Membership,Health & Fitness,484.99,Expense
+2020-05-15,Train Ticket,Travel,919.88,Expense
+2020-05-16,Apartment Rent,Rent,28.54,Expense
+2020-05-17,Monthly Rent,Rent,155.79,Expense
+2020-05-19,Taxi Fare,Travel,273.59,Expense
+2020-05-20,Apartment Rent,Rent,1759.75,Expense
+2020-05-21,Internet Bill,Utilities,881.99,Expense
+2020-05-25,Bus Travel,Travel,1227.24,Expense
+2020-05-27,Cafe Visit,Food & Drink,1339.05,Expense
+2020-05-28,Monthly Rent,Rent,1878.47,Expense
+2020-05-30,Electricity Bill,Utilities,551.97,Expense
+2020-05-31,Pharmacy Purchase,Health & Fitness,415.16,Expense
+2020-05-31,Bus Travel,Travel,1015.76,Expense
+2020-06-01,Breakfast,Food & Drink,193.67,Expense
+2020-06-02,Train Ticket,Travel,97.73,Expense
+2020-06-05,Electricity Bill,Utilities,1277.86,Expense
+2020-06-06,Monthly Salary,Salary,1107.84,Expense
+2020-06-07,Lunch Outside,Food & Drink,232.63,Expense
+2020-06-08,Water Bill,Utilities,1095.72,Expense
+2020-06-09,Gas Bill,Utilities,865.28,Expense
+2020-06-10,Concert Ticket,Entertainment,1367.31,Expense
+2020-06-10,Medical Expense,Health & Fitness,1562.43,Expense
+2020-06-11,Clothing Purchase,Shopping,1947.94,Expense
+2020-06-11,Gaming Purchase,Entertainment,1730.57,Expense
+2020-06-12,Water Bill,Utilities,1764.02,Expense
+2020-06-15,Netflix Subscription,Entertainment,540.94,Expense
+2020-06-18,Monthly Rent,Rent,771.26,Expense
+2020-06-19,Netflix Subscription,Entertainment,453.62,Expense
+2020-06-19,Clothing Purchase,Shopping,663.24,Expense
+2020-06-21,Taxi Fare,Travel,708.78,Expense
+2020-06-21,Gym Membership,Health & Fitness,1879.08,Expense
+2020-06-22,Taxi Fare,Travel,86.13,Expense
+2020-06-24,Medical Expense,Health & Fitness,1459.8,Expense
+2020-06-30,Apartment Rent,Rent,776.54,Expense
+2020-06-30,Bus Travel,Travel,98.33,Expense
+2020-07-02,Netflix Subscription,Entertainment,734.8,Expense
+2020-07-04,Apartment Rent,Rent,1442.31,Expense
+2020-07-05,Taxi Fare,Travel,1337.12,Expense
+2020-07-06,Taxi Fare,Travel,1113.28,Expense
+2020-07-08,Taxi Fare,Travel,818.09,Expense
+2020-07-11,Taxi Fare,Travel,580.96,Expense
+2020-07-12,Gym Membership,Health & Fitness,935.33,Expense
+2020-07-12,Netflix Subscription,Entertainment,1027.24,Expense
+2020-07-13,Internet Bill,Utilities,1321.11,Expense
+2020-07-17,Gym Membership,Health & Fitness,195.84,Expense
+2020-07-20,Concert Ticket,Entertainment,1348.86,Expense
+2020-07-21,Gaming Purchase,Entertainment,303.23,Expense
+2020-07-22,Netflix Subscription,Entertainment,1439.51,Expense
+2020-07-22,Amazon Purchase,Shopping,495.53,Expense
+2020-07-22,Lunch Outside,Food & Drink,1786.39,Expense
+2020-07-23,Apartment Rent,Rent,1559.06,Expense
+2020-07-24,Employer Deposit,Salary,109.93,Expense
+2020-07-28,Apartment Rent,Rent,918.36,Expense
+2020-07-28,Medical Expense,Health & Fitness,1900.58,Expense
+2020-07-29,Grocery Shopping,Shopping,1662.83,Expense
+2020-07-30,Electricity Bill,Utilities,1489.87,Expense
+2020-07-31,Bus Travel,Travel,1506.04,Expense
+2020-08-01,Taxi Fare,Travel,1533.97,Expense
+2020-08-01,Concert Ticket,Entertainment,556.45,Expense
+2020-08-02,Pharmacy Purchase,Health & Fitness,1787.12,Expense
+2020-08-04,Internet Bill,Utilities,1415.77,Expense
+2020-08-04,Amazon Purchase,Shopping,133.91,Expense
+2020-08-05,Amazon Purchase,Shopping,1810.63,Expense
+2020-08-05,Food Delivery,Food & Drink,1714.9,Expense
+2020-08-06,Clothing Purchase,Shopping,959.19,Expense
+2020-08-08,Train Ticket,Travel,1509.42,Expense
+2020-08-08,Amazon Purchase,Shopping,1081.06,Expense
+2020-08-09,Movie Tickets,Entertainment,981.58,Expense
+2020-08-13,Employer Deposit,Salary,67.76,Expense
+2020-08-14,Grocery Shopping,Shopping,1451.12,Expense
+2020-08-16,Water Bill,Utilities,1961.64,Expense
+2020-08-17,Grocery Shopping,Shopping,1187.87,Expense
+2020-08-18,House Rent,Rent,1289.07,Expense
+2020-08-21,Medical Expense,Health & Fitness,681.63,Expense
+2020-08-21,Taxi Fare,Travel,1506.5,Expense
+2020-08-22,Bus Travel,Travel,1671.47,Expense
+2020-08-22,Breakfast,Food & Drink,1999.82,Expense
+2020-08-26,House Rent,Rent,1564.65,Expense
+2020-08-27,Food Delivery,Food & Drink,1899.73,Expense
+2020-08-29,Salary Credit,Salary,1342.22,Expense
+2020-08-30,Gaming Purchase,Entertainment,935.42,Expense
+2020-08-31,Pharmacy Purchase,Health & Fitness,343.9,Expense
+2020-09-01,Apartment Rent,Rent,1557.81,Expense
+2020-09-05,Uber Ride,Travel,1155.84,Expense
+2020-09-06,Mall Shopping,Shopping,799.34,Expense
+2020-09-07,House Rent,Rent,1188.27,Expense
+2020-09-08,Gaming Purchase,Entertainment,212.78,Expense
+2020-09-11,House Rent,Rent,1594.49,Expense
+2020-09-11,Restaurant Dinner,Food & Drink,700.94,Expense
+2020-09-11,Health Checkup,Health & Fitness,147.22,Expense
+2020-09-16,Breakfast,Food & Drink,1700.66,Expense
+2020-09-17,Monthly Rent,Rent,872.71,Expense
+2020-09-17,Employer Deposit,Salary,1417.54,Expense
+2020-09-18,Bus Travel,Travel,1235.67,Expense
+2020-09-18,Employer Deposit,Salary,935.1,Expense
+2020-09-22,Uber Ride,Travel,651.39,Expense
+2020-09-22,Monthly Rent,Rent,565.07,Expense
+2020-09-22,Monthly Salary,Salary,1144.0,Expense
+2020-09-23,Pharmacy Purchase,Health & Fitness,67.11,Expense
+2020-09-23,Gas Bill,Utilities,980.22,Expense
+2020-09-25,Bus Travel,Travel,687.27,Expense
+2020-09-27,Train Ticket,Travel,1116.02,Expense
+2020-09-27,Netflix Subscription,Entertainment,180.37,Expense
+2020-09-27,Monthly Salary,Salary,1114.8,Expense
+2020-09-29,Monthly Salary,Salary,1295.35,Expense
+2020-09-30,Food Delivery,Food & Drink,195.18,Expense
+2020-10-01,Concert Ticket,Entertainment,619.35,Expense
+2020-10-03,Employer Deposit,Salary,1111.41,Expense
+2020-10-04,Pharmacy Purchase,Health & Fitness,710.1,Expense
+2020-10-07,Uber Ride,Travel,510.29,Expense
+2020-10-08,Employer Deposit,Salary,560.23,Expense
+2020-10-08,Train Ticket,Travel,1961.22,Expense
+2020-10-10,Train Ticket,Travel,462.69,Expense
+2020-10-12,Electricity Bill,Utilities,1279.36,Expense
+2020-10-14,Monthly Rent,Rent,1746.71,Expense
+2020-10-15,Monthly Salary,Salary,962.64,Expense
+2020-10-16,Restaurant Dinner,Food & Drink,512.43,Expense
+2020-10-16,Monthly Rent,Rent,1646.01,Expense
+2020-10-16,Monthly Rent,Rent,1158.27,Expense
+2020-10-18,Gas Bill,Utilities,306.9,Expense
+2020-10-19,Train Ticket,Travel,179.51,Expense
+2020-10-23,Mall Shopping,Shopping,1216.57,Expense
+2020-10-24,Concert Ticket,Entertainment,1553.63,Expense
+2020-10-26,Monthly Salary,Salary,601.73,Expense
+2020-10-27,Mall Shopping,Shopping,617.71,Expense
+2020-10-27,House Rent,Rent,1895.7,Expense
+2020-10-27,Movie Tickets,Entertainment,536.65,Expense
+2020-10-29,Electricity Bill,Utilities,15.32,Expense
+2020-10-30,Employer Deposit,Salary,589.61,Expense
+2020-10-31,Train Ticket,Travel,1408.95,Expense
+2020-11-01,Netflix Subscription,Entertainment,1848.58,Expense
+2020-11-01,Gaming Purchase,Entertainment,856.03,Expense
+2020-11-02,Gas Bill,Utilities,1817.74,Expense
+2020-11-04,House Rent,Rent,128.68,Expense
+2020-11-06,Train Ticket,Travel,883.92,Expense
+2020-11-07,Uber Ride,Travel,1402.47,Expense
+2020-11-09,Monthly Salary,Salary,881.14,Expense
+2020-11-10,Amazon Purchase,Shopping,1471.72,Expense
+2020-11-10,Food Delivery,Food & Drink,191.74,Expense
+2020-11-12,Breakfast,Food & Drink,1999.15,Expense
+2020-11-12,Bus Travel,Travel,1156.73,Expense
+2020-11-14,Water Bill,Utilities,946.3,Expense
+2020-11-14,Train Ticket,Travel,371.16,Expense
+2020-11-14,Salary Credit,Salary,1938.42,Expense
+2020-11-14,Grocery Shopping,Shopping,673.28,Expense
+2020-11-15,Internet Bill,Utilities,666.31,Expense
+2020-11-15,Train Ticket,Travel,1328.54,Expense
+2020-11-16,Lunch Outside,Food & Drink,915.1,Expense
+2020-11-16,Pharmacy Purchase,Health & Fitness,240.68,Expense
+2020-11-17,Food Delivery,Food & Drink,1318.74,Expense
+2020-11-20,Clothing Purchase,Shopping,117.87,Expense
+2020-11-22,Employer Deposit,Salary,1254.56,Expense
+2020-11-23,Netflix Subscription,Entertainment,541.44,Expense
+2020-11-25,Salary Credit,Salary,251.64,Expense
+2020-11-26,Netflix Subscription,Entertainment,1422.47,Expense
+2020-11-27,Lunch Outside,Food & Drink,1108.98,Expense
+2020-11-29,Electricity Bill,Utilities,1001.77,Expense
+2020-12-01,Uber Ride,Travel,836.83,Expense
+2020-12-05,Salary Credit,Salary,495.02,Expense
+2020-12-05,Amazon Purchase,Shopping,389.31,Expense
+2020-12-06,Mobile Recharge,Utilities,1729.41,Expense
+2020-12-10,Clothing Purchase,Shopping,686.35,Expense
+2020-12-10,Bus Travel,Travel,1642.89,Expense
+2020-12-11,Taxi Fare,Travel,1676.58,Expense
+2020-12-12,Salary Credit,Salary,1731.87,Expense
+2020-12-13,Salary Credit,Salary,696.8,Expense
+2020-12-14,Grocery Shopping,Shopping,916.14,Expense
+2020-12-14,Concert Ticket,Entertainment,1961.74,Expense
+2020-12-16,Clothing Purchase,Shopping,474.79,Expense
+2020-12-16,Cafe Visit,Food & Drink,643.17,Expense
+2020-12-16,Amazon Purchase,Shopping,778.3,Expense
+2020-12-18,Water Bill,Utilities,995.7,Expense
+2020-12-20,Salary Credit,Salary,208.43,Expense
+2020-12-20,Restaurant Dinner,Food & Drink,1447.66,Expense
+2020-12-22,Internet Bill,Utilities,158.91,Expense
+2020-12-23,Taxi Fare,Travel,683.74,Expense
+2020-12-23,House Rent,Rent,1705.01,Expense
+2020-12-24,Mall Shopping,Shopping,1908.74,Expense
+2020-12-25,Salary Credit,Salary,1746.04,Expense
+2020-12-28,Uber Ride,Travel,1994.88,Expense
+2020-12-30,Clothing Purchase,Shopping,1956.89,Expense
+2020-12-31,Apartment Rent,Rent,892.92,Expense
+2021-01-01,Lunch Outside,Food & Drink,101.52,Expense
+2021-01-06,Train Ticket,Travel,723.34,Expense
+2021-01-06,Gaming Purchase,Entertainment,1067.02,Expense
+2021-01-08,Internet Bill,Utilities,348.27,Expense
+2021-01-10,Mobile Recharge,Utilities,472.06,Expense
+2021-01-11,Salary Credit,Salary,518.1,Expense
+2021-01-13,Electricity Bill,Utilities,156.99,Expense
+2021-01-13,Train Ticket,Travel,1281.49,Expense
+2021-01-14,Taxi Fare,Travel,919.1,Expense
+2021-01-14,Clothing Purchase,Shopping,1708.14,Expense
+2021-01-15,Bus Travel,Travel,53.66,Expense
+2021-01-17,Grocery Shopping,Shopping,556.22,Expense
+2021-01-17,Restaurant Dinner,Food & Drink,1822.13,Expense
+2021-01-19,Bus Travel,Travel,1553.72,Expense
+2021-01-20,Pharmacy Purchase,Health & Fitness,445.82,Expense
+2021-01-26,Cafe Visit,Food & Drink,624.78,Expense
+2021-01-27,Medical Expense,Health & Fitness,1467.4,Expense
+2021-01-27,Gas Bill,Utilities,409.58,Expense
+2021-01-27,Pharmacy Purchase,Health & Fitness,1066.4,Expense
+2021-01-29,Mobile Recharge,Utilities,521.37,Expense
+2021-02-02,Monthly Salary,Salary,1935.09,Expense
+2021-02-05,Pharmacy Purchase,Health & Fitness,1610.42,Expense
+2021-02-05,Monthly Rent,Rent,290.11,Expense
+2021-02-08,Clothing Purchase,Shopping,1934.87,Expense
+2021-02-08,Health Checkup,Health & Fitness,189.7,Expense
+2021-02-09,Uber Ride,Travel,1077.78,Expense
+2021-02-09,Bus Travel,Travel,1173.27,Expense
+2021-02-11,Medical Expense,Health & Fitness,225.61,Expense
+2021-02-11,Food Delivery,Food & Drink,1242.9,Expense
+2021-02-13,Pharmacy Purchase,Health & Fitness,1831.36,Expense
+2021-02-16,Apartment Rent,Rent,1274.45,Expense
+2021-02-18,Uber Ride,Travel,1301.99,Expense
+2021-02-20,Monthly Salary,Salary,241.08,Expense
+2021-02-21,Gas Bill,Utilities,783.41,Expense
+2021-02-23,Mall Shopping,Shopping,1178.81,Expense
+2021-02-24,Clothing Purchase,Shopping,1313.29,Expense
+2021-02-27,Mall Shopping,Shopping,1878.72,Expense
+2021-02-28,Gym Membership,Health & Fitness,442.37,Expense
+2021-03-02,Netflix Subscription,Entertainment,1712.35,Expense
+2021-03-02,Health Checkup,Health & Fitness,130.49,Expense
+2021-03-04,Monthly Rent,Rent,1898.53,Expense
+2021-03-05,House Rent,Rent,1328.91,Expense
+2021-03-05,Lunch Outside,Food & Drink,110.65,Expense
+2021-03-07,Gas Bill,Utilities,1576.09,Expense
+2021-03-07,Movie Tickets,Entertainment,1176.9,Expense
+2021-03-08,Netflix Subscription,Entertainment,663.83,Expense
+2021-03-09,Electricity Bill,Utilities,1975.18,Expense
+2021-03-10,Water Bill,Utilities,228.75,Expense
+2021-03-12,Electricity Bill,Utilities,39.57,Expense
+2021-03-15,Movie Tickets,Entertainment,1181.82,Expense
+2021-03-17,Medical Expense,Health & Fitness,1031.34,Expense
+2021-03-18,Bus Travel,Travel,921.5,Expense
+2021-03-19,Restaurant Dinner,Food & Drink,1997.19,Expense
+2021-03-20,Mall Shopping,Shopping,1375.33,Expense
+2021-03-21,Salary Credit,Salary,156.25,Expense
+2021-03-22,Taxi Fare,Travel,912.89,Expense
+2021-03-23,House Rent,Rent,1588.26,Expense
+2021-03-24,Netflix Subscription,Entertainment,833.49,Expense
+2021-03-25,Grocery Shopping,Shopping,837.82,Expense
+2021-03-27,Pharmacy Purchase,Health & Fitness,1907.65,Expense
+2021-03-28,Employer Deposit,Salary,143.6,Expense
+2021-03-29,Monthly Rent,Rent,869.43,Expense
+2021-03-30,Pharmacy Purchase,Health & Fitness,1625.42,Expense
+2021-04-01,Medical Expense,Health & Fitness,1343.33,Expense
+2021-04-02,Amazon Purchase,Shopping,1737.5,Expense
+2021-04-03,Taxi Fare,Travel,1204.82,Expense
+2021-04-03,Concert Ticket,Entertainment,317.91,Expense
+2021-04-03,Monthly Rent,Rent,706.73,Expense
+2021-04-08,Monthly Rent,Rent,1527.59,Expense
+2021-04-08,Grocery Shopping,Shopping,1691.86,Expense
+2021-04-09,Food Delivery,Food & Drink,1221.9,Expense
+2021-04-11,Train Ticket,Travel,67.62,Expense
+2021-04-11,Train Ticket,Travel,1843.86,Expense
+2021-04-12,Mobile Recharge,Utilities,1741.03,Expense
+2021-04-13,Clothing Purchase,Shopping,148.47,Expense
+2021-04-18,Lunch Outside,Food & Drink,192.6,Expense
+2021-04-19,Grocery Shopping,Shopping,845.47,Expense
+2021-04-19,Gym Membership,Health & Fitness,630.16,Expense
+2021-04-19,Apartment Rent,Rent,1767.85,Expense
+2021-04-21,Grocery Shopping,Shopping,976.47,Expense
+2021-04-23,Uber Ride,Travel,438.98,Expense
+2021-04-23,Health Checkup,Health & Fitness,865.53,Expense
+2021-04-24,Employer Deposit,Salary,1058.6,Expense
+2021-04-27,Netflix Subscription,Entertainment,796.57,Expense
+2021-04-27,Lunch Outside,Food & Drink,416.8,Expense
+2021-04-27,Water Bill,Utilities,1530.68,Expense
+2021-04-30,Monthly Rent,Rent,25.38,Expense
+2021-05-02,Gas Bill,Utilities,267.08,Expense
+2021-05-04,Movie Tickets,Entertainment,1005.52,Expense
+2021-05-04,Gym Membership,Health & Fitness,153.43,Expense
+2021-05-06,Cafe Visit,Food & Drink,878.08,Expense
+2021-05-07,Monthly Rent,Rent,1725.6,Expense
+2021-05-07,Clothing Purchase,Shopping,1421.9,Expense
+2021-05-07,Apartment Rent,Rent,816.01,Expense
+2021-05-10,Internet Bill,Utilities,1604.63,Expense
+2021-05-11,Gym Membership,Health & Fitness,185.38,Expense
+2021-05-11,Netflix Subscription,Entertainment,877.0,Expense
+2021-05-12,House Rent,Rent,797.58,Expense
+2021-05-14,Medical Expense,Health & Fitness,450.93,Expense
+2021-05-14,House Rent,Rent,1025.86,Expense
+2021-05-17,Electricity Bill,Utilities,480.18,Expense
+2021-05-22,Apartment Rent,Rent,362.52,Expense
+2021-05-23,Employer Deposit,Salary,933.27,Expense
+2021-05-24,Monthly Salary,Salary,1365.46,Expense
+2021-05-24,Medical Expense,Health & Fitness,1729.85,Expense
+2021-05-24,Internet Bill,Utilities,885.13,Expense
+2021-05-25,Train Ticket,Travel,1594.7,Expense
+2021-05-25,Pharmacy Purchase,Health & Fitness,1019.6,Expense
+2021-05-27,Monthly Salary,Salary,84.84,Expense
+2021-05-27,Bus Travel,Travel,162.69,Expense
+2021-05-29,House Rent,Rent,1233.87,Expense
+2021-05-30,Monthly Salary,Salary,1164.86,Expense
+2021-05-31,Cafe Visit,Food & Drink,904.97,Expense
+2021-05-31,Gaming Purchase,Entertainment,649.84,Expense
+2021-06-02,Electricity Bill,Utilities,1915.87,Expense
+2021-06-02,Pharmacy Purchase,Health & Fitness,1964.95,Expense
+2021-06-06,Monthly Salary,Salary,1982.06,Expense
+2021-06-06,Internet Bill,Utilities,734.16,Expense
+2021-06-06,Grocery Shopping,Shopping,823.45,Expense
+2021-06-09,Cafe Visit,Food & Drink,1580.56,Expense
+2021-06-11,Apartment Rent,Rent,666.08,Expense
+2021-06-11,Clothing Purchase,Shopping,575.45,Expense
+2021-06-14,Mobile Recharge,Utilities,673.39,Expense
+2021-06-15,Mobile Recharge,Utilities,1834.33,Expense
+2021-06-16,Clothing Purchase,Shopping,266.61,Expense
+2021-06-20,Monthly Rent,Rent,626.07,Expense
+2021-06-20,Gym Membership,Health & Fitness,1628.24,Expense
+2021-06-22,Monthly Rent,Rent,1295.59,Expense
+2021-06-23,Health Checkup,Health & Fitness,46.28,Expense
+2021-06-24,Concert Ticket,Entertainment,690.05,Expense
+2021-06-26,Movie Tickets,Entertainment,460.82,Expense
+2021-06-28,Apartment Rent,Rent,1020.3,Expense
+2021-06-28,Breakfast,Food & Drink,1327.24,Expense
+2021-06-28,Internet Bill,Utilities,1198.52,Expense
+2021-06-29,Breakfast,Food & Drink,827.61,Expense
+2021-07-04,Gaming Purchase,Entertainment,1939.48,Expense
+2021-07-04,Salary Credit,Salary,475.67,Expense
+2021-07-04,Monthly Salary,Salary,1808.91,Expense
+2021-07-07,Amazon Purchase,Shopping,1010.78,Expense
+2021-07-09,Water Bill,Utilities,1635.61,Expense
+2021-07-09,Mobile Recharge,Utilities,1747.27,Expense
+2021-07-10,Apartment Rent,Rent,1425.69,Expense
+2021-07-11,Monthly Rent,Rent,577.28,Expense
+2021-07-11,Uber Ride,Travel,904.15,Expense
+2021-07-11,Amazon Purchase,Shopping,192.51,Expense
+2021-07-12,Employer Deposit,Salary,1770.41,Expense
+2021-07-13,Clothing Purchase,Shopping,115.98,Expense
+2021-07-14,Movie Tickets,Entertainment,778.47,Expense
+2021-07-19,Monthly Rent,Rent,1679.96,Expense
+2021-07-19,Mobile Recharge,Utilities,283.82,Expense
+2021-07-23,Employer Deposit,Salary,1395.18,Expense
+2021-07-24,Apartment Rent,Rent,47.82,Expense
+2021-07-28,Water Bill,Utilities,1102.12,Expense
+2021-07-29,Amazon Purchase,Shopping,231.26,Expense
+2021-08-02,Train Ticket,Travel,252.48,Expense
+2021-08-06,Salary Credit,Salary,134.99,Expense
+2021-08-07,Employer Deposit,Salary,1197.51,Expense
+2021-08-08,Cafe Visit,Food & Drink,1233.47,Expense
+2021-08-09,Grocery Shopping,Shopping,382.75,Expense
+2021-08-11,Medical Expense,Health & Fitness,144.68,Expense
+2021-08-13,Lunch Outside,Food & Drink,787.0,Expense
+2021-08-13,Amazon Purchase,Shopping,1962.27,Expense
+2021-08-15,Food Delivery,Food & Drink,720.62,Expense
+2021-08-18,Gym Membership,Health & Fitness,275.49,Expense
+2021-08-20,Health Checkup,Health & Fitness,1628.88,Expense
+2021-08-21,Mobile Recharge,Utilities,135.57,Expense
+2021-08-22,Salary Credit,Salary,83.6,Expense
+2021-08-23,Concert Ticket,Entertainment,1772.72,Expense
+2021-08-24,Bus Travel,Travel,1035.61,Expense
+2021-08-25,Employer Deposit,Salary,514.09,Expense
+2021-08-27,Gaming Purchase,Entertainment,579.36,Expense
+2021-08-29,Food Delivery,Food & Drink,1732.94,Expense
+2021-09-05,Apartment Rent,Rent,1600.69,Expense
+2021-09-06,Amazon Purchase,Shopping,1489.18,Expense
+2021-09-09,Clothing Purchase,Shopping,684.68,Expense
+2021-09-09,Taxi Fare,Travel,1604.28,Expense
+2021-09-10,Apartment Rent,Rent,866.91,Expense
+2021-09-11,Gas Bill,Utilities,1095.49,Expense
+2021-09-11,Apartment Rent,Rent,662.56,Expense
+2021-09-11,Monthly Salary,Salary,1209.22,Expense
+2021-09-11,Employer Deposit,Salary,709.58,Expense
+2021-09-16,Cafe Visit,Food & Drink,159.33,Expense
+2021-09-16,Medical Expense,Health & Fitness,1031.04,Expense
+2021-09-17,Mobile Recharge,Utilities,1906.05,Expense
+2021-09-19,Breakfast,Food & Drink,1214.14,Expense
+2021-09-19,Medical Expense,Health & Fitness,750.31,Expense
+2021-09-19,Internet Bill,Utilities,1063.63,Expense
+2021-09-20,Taxi Fare,Travel,506.73,Expense
+2021-09-28,Apartment Rent,Rent,530.94,Expense
+2021-10-01,Employer Deposit,Salary,437.0,Expense
+2021-10-07,Salary Credit,Salary,408.35,Expense
+2021-10-13,Pharmacy Purchase,Health & Fitness,1339.0,Expense
+2021-10-13,Taxi Fare,Travel,1783.75,Expense
+2021-10-16,Internet Bill,Utilities,1589.46,Expense
+2021-10-20,Apartment Rent,Rent,1970.41,Expense
+2021-10-21,Netflix Subscription,Entertainment,1582.84,Expense
+2021-10-24,Gas Bill,Utilities,1227.78,Expense
+2021-10-27,Monthly Salary,Salary,1056.13,Expense
+2021-10-27,House Rent,Rent,259.4,Expense
+2021-10-30,Apartment Rent,Rent,905.45,Expense
+2021-11-03,Pharmacy Purchase,Health & Fitness,265.39,Expense
+2021-11-04,Gas Bill,Utilities,1537.89,Expense
+2021-11-05,Taxi Fare,Travel,337.67,Expense
+2021-11-06,Gaming Purchase,Entertainment,698.59,Expense
+2021-11-07,Taxi Fare,Travel,1693.41,Expense
+2021-11-10,Train Ticket,Travel,259.09,Expense
+2021-11-15,Apartment Rent,Rent,1010.12,Expense
+2021-11-17,Pharmacy Purchase,Health & Fitness,1686.63,Expense
+2021-11-18,Restaurant Dinner,Food & Drink,171.63,Expense
+2021-11-18,Taxi Fare,Travel,1305.75,Expense
+2021-11-19,Clothing Purchase,Shopping,1240.04,Expense
+2021-11-21,Grocery Shopping,Shopping,601.89,Expense
+2021-11-23,Monthly Salary,Salary,934.24,Expense
+2021-11-26,Electricity Bill,Utilities,632.04,Expense
+2021-11-27,Pharmacy Purchase,Health & Fitness,1950.99,Expense
+2021-12-01,Gym Membership,Health & Fitness,491.06,Expense
+2021-12-03,Mall Shopping,Shopping,504.06,Expense
+2021-12-08,Internet Bill,Utilities,1628.82,Expense
+2021-12-09,Medical Expense,Health & Fitness,387.77,Expense
+2021-12-11,Salary Credit,Salary,56.12,Expense
+2021-12-12,Monthly Salary,Salary,1933.71,Expense
+2021-12-13,Gym Membership,Health & Fitness,106.83,Expense
+2021-12-13,Monthly Salary,Salary,578.64,Expense
+2021-12-16,Pharmacy Purchase,Health & Fitness,100.03,Expense
+2021-12-20,House Rent,Rent,778.83,Expense
+2021-12-20,Uber Ride,Travel,1652.37,Expense
+2021-12-23,Apartment Rent,Rent,266.04,Expense
+2021-12-26,Health Checkup,Health & Fitness,1512.38,Expense
+2022-01-01,Employer Deposit,Salary,1043.47,Expense
+2022-01-03,Pharmacy Purchase,Health & Fitness,333.38,Expense
+2022-01-03,Taxi Fare,Travel,1191.51,Expense
+2022-01-04,Salary Credit,Salary,1420.39,Expense
+2022-01-05,Lunch Outside,Food & Drink,743.03,Expense
+2022-01-06,Amazon Purchase,Shopping,1171.57,Expense
+2022-01-08,Lunch Outside,Food & Drink,1197.85,Expense
+2022-01-09,Netflix Subscription,Entertainment,1445.59,Expense
+2022-01-13,Electricity Bill,Utilities,1053.22,Expense
+2022-01-13,Clothing Purchase,Shopping,304.07,Expense
+2022-01-14,Food Delivery,Food & Drink,1149.41,Expense
+2022-01-16,Gaming Purchase,Entertainment,47.69,Expense
+2022-01-16,Electricity Bill,Utilities,831.79,Expense
+2022-01-18,Monthly Salary,Salary,1746.91,Expense
+2022-01-18,Breakfast,Food & Drink,1414.49,Expense
+2022-01-21,Health Checkup,Health & Fitness,1996.26,Expense
+2022-01-21,Clothing Purchase,Shopping,634.37,Expense
+2022-01-23,Uber Ride,Travel,1224.05,Expense
+2022-01-28,Gaming Purchase,Entertainment,1883.56,Expense
+2022-02-01,Bus Travel,Travel,1412.75,Expense
+2022-02-02,Employer Deposit,Salary,640.91,Expense
+2022-02-05,Train Ticket,Travel,582.7,Expense
+2022-02-05,Clothing Purchase,Shopping,1792.56,Expense
+2022-02-06,Pharmacy Purchase,Health & Fitness,1909.67,Expense
+2022-02-08,Uber Ride,Travel,93.71,Expense
+2022-02-08,House Rent,Rent,699.26,Expense
+2022-02-09,Train Ticket,Travel,1497.2,Expense
+2022-02-10,Bus Travel,Travel,1866.72,Expense
+2022-02-10,Water Bill,Utilities,227.36,Expense
+2022-02-10,Gaming Purchase,Entertainment,492.49,Expense
+2022-02-10,Gaming Purchase,Entertainment,1279.51,Expense
+2022-02-14,Monthly Rent,Rent,1365.57,Expense
+2022-02-17,Monthly Salary,Salary,960.12,Expense
+2022-02-17,Lunch Outside,Food & Drink,1816.79,Expense
+2022-02-21,Lunch Outside,Food & Drink,1827.33,Expense
+2022-02-22,Mall Shopping,Shopping,1578.04,Expense
+2022-03-01,Salary Credit,Salary,1779.63,Expense
+2022-03-07,Food Delivery,Food & Drink,1475.87,Expense
+2022-03-07,Movie Tickets,Entertainment,359.23,Expense
+2022-03-12,Amazon Purchase,Shopping,1655.71,Expense
+2022-03-14,House Rent,Rent,807.66,Expense
+2022-03-17,Netflix Subscription,Entertainment,23.59,Expense
+2022-03-18,Monthly Salary,Salary,1509.98,Expense
+2022-03-18,Bus Travel,Travel,1169.1,Expense
+2022-03-18,Uber Ride,Travel,1310.83,Expense
+2022-03-20,Lunch Outside,Food & Drink,1338.89,Expense
+2022-03-20,Gas Bill,Utilities,816.78,Expense
+2022-03-22,Train Ticket,Travel,1383.68,Expense
+2022-03-23,Taxi Fare,Travel,741.41,Expense
+2022-03-23,Mobile Recharge,Utilities,961.58,Expense
+2022-03-24,Gym Membership,Health & Fitness,837.53,Expense
+2022-03-25,Monthly Salary,Salary,1517.13,Expense
+2022-03-26,Movie Tickets,Entertainment,1526.1,Expense
+2022-03-27,Apartment Rent,Rent,1055.76,Expense
+2022-03-28,Pharmacy Purchase,Health & Fitness,165.42,Expense
+2022-03-28,Food Delivery,Food & Drink,1659.26,Expense
+2022-03-28,Gaming Purchase,Entertainment,1149.68,Expense
+2022-03-29,Netflix Subscription,Entertainment,1436.67,Expense
+2022-03-29,Monthly Salary,Salary,1619.3,Expense
+2022-03-31,Amazon Purchase,Shopping,919.03,Expense
+2022-03-31,Amazon Purchase,Shopping,516.37,Expense
+2022-04-01,Restaurant Dinner,Food & Drink,1869.82,Expense
+2022-04-02,Internet Bill,Utilities,1540.25,Expense
+2022-04-02,Grocery Shopping,Shopping,755.18,Expense
+2022-04-03,Employer Deposit,Salary,1740.54,Expense
+2022-04-03,Grocery Shopping,Shopping,169.7,Expense
+2022-04-04,Electricity Bill,Utilities,1310.53,Expense
+2022-04-05,Mobile Recharge,Utilities,1985.77,Expense
+2022-04-08,Electricity Bill,Utilities,1458.44,Expense
+2022-04-09,Restaurant Dinner,Food & Drink,1514.8,Expense
+2022-04-09,Salary Credit,Salary,1350.26,Expense
+2022-04-10,Grocery Shopping,Shopping,1648.49,Expense
+2022-04-10,Pharmacy Purchase,Health & Fitness,318.69,Expense
+2022-04-18,Amazon Purchase,Shopping,1233.7,Expense
+2022-04-18,Lunch Outside,Food & Drink,488.93,Expense
+2022-04-22,Breakfast,Food & Drink,497.02,Expense
+2022-04-24,Lunch Outside,Food & Drink,288.87,Expense
+2022-04-24,Netflix Subscription,Entertainment,1633.41,Expense
+2022-04-29,Pharmacy Purchase,Health & Fitness,1159.17,Expense
+2022-04-30,Medical Expense,Health & Fitness,481.44,Expense
+2022-05-02,Gaming Purchase,Entertainment,832.98,Expense
+2022-05-02,Gas Bill,Utilities,1255.73,Expense
+2022-05-03,Employer Deposit,Salary,103.3,Expense
+2022-05-05,Mall Shopping,Shopping,1573.75,Expense
+2022-05-05,Amazon Purchase,Shopping,822.44,Expense
+2022-05-06,Water Bill,Utilities,1511.29,Expense
+2022-05-07,Netflix Subscription,Entertainment,608.47,Expense
+2022-05-07,Monthly Salary,Salary,1830.33,Expense
+2022-05-07,Mall Shopping,Shopping,1119.0,Expense
+2022-05-08,Apartment Rent,Rent,1845.23,Expense
+2022-05-09,Apartment Rent,Rent,1075.91,Expense
+2022-05-09,Lunch Outside,Food & Drink,544.24,Expense
+2022-05-11,Cafe Visit,Food & Drink,1748.5,Expense
+2022-05-13,Gym Membership,Health & Fitness,613.34,Expense
+2022-05-14,Concert Ticket,Entertainment,1874.95,Expense
+2022-05-19,House Rent,Rent,1496.29,Expense
+2022-05-19,Gaming Purchase,Entertainment,1394.3,Expense
+2022-05-20,Mall Shopping,Shopping,1831.1,Expense
+2022-05-20,Bus Travel,Travel,767.52,Expense
+2022-05-22,Health Checkup,Health & Fitness,623.76,Expense
+2022-05-23,Employer Deposit,Salary,937.35,Expense
+2022-05-24,Monthly Salary,Salary,1525.64,Expense
+2022-05-24,Gaming Purchase,Entertainment,747.7,Expense
+2022-05-25,Netflix Subscription,Entertainment,1485.09,Expense
+2022-05-29,Concert Ticket,Entertainment,1003.61,Expense
+2022-05-29,Pharmacy Purchase,Health & Fitness,522.08,Expense
+2022-05-30,Salary Credit,Salary,927.05,Expense
+2022-05-30,Health Checkup,Health & Fitness,346.84,Expense
+2022-05-31,Employer Deposit,Salary,376.26,Expense
+2022-06-01,Food Delivery,Food & Drink,1052.65,Expense
+2022-06-01,House Rent,Rent,1890.92,Expense
+2022-06-04,Breakfast,Food & Drink,830.66,Expense
+2022-06-04,Netflix Subscription,Entertainment,145.26,Expense
+2022-06-07,Breakfast,Food & Drink,1239.49,Expense
+2022-06-07,Employer Deposit,Salary,1321.98,Expense
+2022-06-12,Restaurant Dinner,Food & Drink,1009.41,Expense
+2022-06-12,Clothing Purchase,Shopping,1614.27,Expense
+2022-06-12,Apartment Rent,Rent,1836.92,Expense
+2022-06-13,Gaming Purchase,Entertainment,391.94,Expense
+2022-06-17,Gym Membership,Health & Fitness,541.98,Expense
+2022-06-17,Pharmacy Purchase,Health & Fitness,1919.0,Expense
+2022-06-18,Concert Ticket,Entertainment,1980.56,Expense
+2022-06-19,Apartment Rent,Rent,1310.93,Expense
+2022-06-20,Restaurant Dinner,Food & Drink,196.07,Expense
+2022-06-21,Employer Deposit,Salary,121.67,Expense
+2022-06-23,Clothing Purchase,Shopping,1293.37,Expense
+2022-06-23,Apartment Rent,Rent,1790.63,Expense
+2022-06-25,Concert Ticket,Entertainment,430.72,Expense
+2022-06-25,Monthly Salary,Salary,549.48,Expense
+2022-06-26,Taxi Fare,Travel,1799.63,Expense
+2022-06-26,Food Delivery,Food & Drink,366.92,Expense
+2022-06-30,Restaurant Dinner,Food & Drink,1923.32,Expense
+2022-07-01,Grocery Shopping,Shopping,1858.46,Expense
+2022-07-02,Netflix Subscription,Entertainment,1137.72,Expense
+2022-07-04,Pharmacy Purchase,Health & Fitness,773.85,Expense
+2022-07-04,House Rent,Rent,1006.58,Expense
+2022-07-04,Food Delivery,Food & Drink,204.39,Expense
+2022-07-05,Apartment Rent,Rent,687.78,Expense
+2022-07-06,Grocery Shopping,Shopping,1938.15,Expense
+2022-07-13,Train Ticket,Travel,1569.26,Expense
+2022-07-17,Netflix Subscription,Entertainment,718.06,Expense
+2022-07-17,Amazon Purchase,Shopping,379.62,Expense
+2022-07-17,Grocery Shopping,Shopping,180.53,Expense
+2022-07-18,Movie Tickets,Entertainment,1429.09,Expense
+2022-07-19,Water Bill,Utilities,1481.91,Expense
+2022-07-20,Monthly Rent,Rent,192.13,Expense
+2022-07-22,Salary Credit,Salary,726.24,Expense
+2022-07-25,Gas Bill,Utilities,183.72,Expense
+2022-07-27,Mall Shopping,Shopping,215.55,Expense
+2022-07-27,Food Delivery,Food & Drink,590.78,Expense
+2022-07-27,Monthly Rent,Rent,1452.44,Expense
+2022-07-28,Gaming Purchase,Entertainment,1148.2,Expense
+2022-07-30,Monthly Rent,Rent,342.74,Expense
+2022-07-31,Taxi Fare,Travel,973.62,Expense
+2022-08-02,Monthly Salary,Salary,1191.67,Expense
+2022-08-04,Amazon Purchase,Shopping,671.11,Expense
+2022-08-06,Pharmacy Purchase,Health & Fitness,886.04,Expense
+2022-08-07,Internet Bill,Utilities,607.87,Expense
+2022-08-12,Netflix Subscription,Entertainment,963.23,Expense
+2022-08-15,Salary Credit,Salary,1935.85,Expense
+2022-08-15,Health Checkup,Health & Fitness,758.35,Expense
+2022-08-16,Grocery Shopping,Shopping,736.38,Expense
+2022-08-16,Netflix Subscription,Entertainment,1188.53,Expense
+2022-08-17,Food Delivery,Food & Drink,1906.48,Expense
+2022-08-18,Movie Tickets,Entertainment,882.53,Expense
+2022-08-19,Apartment Rent,Rent,1639.74,Expense
+2022-08-21,Grocery Shopping,Shopping,1349.23,Expense
+2022-08-22,Electricity Bill,Utilities,1433.32,Expense
+2022-08-22,Monthly Rent,Rent,903.64,Expense
+2022-08-23,Grocery Shopping,Shopping,1073.39,Expense
+2022-08-24,Clothing Purchase,Shopping,1091.85,Expense
+2022-08-26,Medical Expense,Health & Fitness,1406.25,Expense
+2022-08-26,Apartment Rent,Rent,227.65,Expense
+2022-08-28,Health Checkup,Health & Fitness,341.01,Expense
+2022-08-29,Clothing Purchase,Shopping,1933.95,Expense
+2022-08-30,Clothing Purchase,Shopping,220.83,Expense
+2022-08-31,Netflix Subscription,Entertainment,897.1,Expense
+2022-09-01,Internet Bill,Utilities,696.49,Expense
+2022-09-03,House Rent,Rent,240.98,Expense
+2022-09-03,Internet Bill,Utilities,703.17,Expense
+2022-09-03,Gaming Purchase,Entertainment,1047.02,Expense
+2022-09-04,Apartment Rent,Rent,881.95,Expense
+2022-09-04,Pharmacy Purchase,Health & Fitness,143.68,Expense
+2022-09-06,Monthly Rent,Rent,1357.51,Expense
+2022-09-10,Employer Deposit,Salary,471.39,Expense
+2022-09-11,Gas Bill,Utilities,380.91,Expense
+2022-09-11,Amazon Purchase,Shopping,68.09,Expense
+2022-09-12,Concert Ticket,Entertainment,904.65,Expense
+2022-09-14,Restaurant Dinner,Food & Drink,1412.42,Expense
+2022-09-15,House Rent,Rent,1158.92,Expense
+2022-09-15,Gas Bill,Utilities,737.93,Expense
+2022-09-18,Monthly Salary,Salary,1060.15,Expense
+2022-09-19,Amazon Purchase,Shopping,1226.5,Expense
+2022-09-19,Gym Membership,Health & Fitness,710.45,Expense
+2022-09-21,Water Bill,Utilities,1629.34,Expense
+2022-09-23,Taxi Fare,Travel,1838.18,Expense
+2022-09-26,Electricity Bill,Utilities,633.24,Expense
+2022-09-26,Monthly Rent,Rent,374.26,Expense
+2022-09-28,Grocery Shopping,Shopping,842.3,Expense
+2022-09-30,Internet Bill,Utilities,382.33,Expense
+2022-10-01,Cafe Visit,Food & Drink,1732.39,Expense
+2022-10-02,Employer Deposit,Salary,281.7,Expense
+2022-10-03,Employer Deposit,Salary,824.18,Expense
+2022-10-04,Monthly Salary,Salary,982.51,Expense
+2022-10-05,Train Ticket,Travel,457.44,Expense
+2022-10-08,Monthly Salary,Salary,1135.64,Expense
+2022-10-10,Monthly Salary,Salary,1103.96,Expense
+2022-10-12,Gym Membership,Health & Fitness,1088.67,Expense
+2022-10-13,Employer Deposit,Salary,1097.24,Expense
+2022-10-19,Monthly Rent,Rent,1474.62,Expense
+2022-10-19,Netflix Subscription,Entertainment,602.44,Expense
+2022-10-20,Employer Deposit,Salary,533.0,Expense
+2022-10-21,House Rent,Rent,883.75,Expense
+2022-10-22,Gaming Purchase,Entertainment,427.66,Expense
+2022-10-23,Medical Expense,Health & Fitness,1723.49,Expense
+2022-10-25,Grocery Shopping,Shopping,340.3,Expense
+2022-10-30,Medical Expense,Health & Fitness,1069.24,Expense
+2022-10-31,Internet Bill,Utilities,654.07,Expense
+2022-11-03,Uber Ride,Travel,1149.74,Expense
+2022-11-04,Monthly Rent,Rent,279.82,Expense
+2022-11-05,Grocery Shopping,Shopping,1838.35,Expense
+2022-11-07,Gas Bill,Utilities,1405.84,Expense
+2022-11-09,Clothing Purchase,Shopping,984.02,Expense
+2022-11-10,Taxi Fare,Travel,1259.35,Expense
+2022-11-13,Apartment Rent,Rent,1270.92,Expense
+2022-11-14,Monthly Rent,Rent,811.67,Expense
+2022-11-14,Gym Membership,Health & Fitness,914.84,Expense
+2022-11-15,Breakfast,Food & Drink,1739.13,Expense
+2022-11-17,Monthly Rent,Rent,1464.55,Expense
+2022-11-17,Health Checkup,Health & Fitness,1701.71,Expense
+2022-11-18,Grocery Shopping,Shopping,443.48,Expense
+2022-11-19,Concert Ticket,Entertainment,994.48,Expense
+2022-11-21,Train Ticket,Travel,682.13,Expense
+2022-11-22,Monthly Salary,Salary,1578.72,Expense
+2022-11-26,Restaurant Dinner,Food & Drink,101.43,Expense
+2022-11-26,Employer Deposit,Salary,42.4,Expense
+2022-11-28,Gas Bill,Utilities,888.16,Expense
+2022-12-01,Mobile Recharge,Utilities,1765.47,Expense
+2022-12-03,Taxi Fare,Travel,195.75,Expense
+2022-12-04,Monthly Rent,Rent,749.97,Expense
+2022-12-05,Mobile Recharge,Utilities,113.06,Expense
+2022-12-05,Gaming Purchase,Entertainment,864.17,Expense
+2022-12-12,Monthly Rent,Rent,274.07,Expense
+2022-12-13,Monthly Salary,Salary,28.48,Expense
+2022-12-15,House Rent,Rent,1976.43,Expense
+2022-12-16,Electricity Bill,Utilities,960.62,Expense
+2022-12-18,House Rent,Rent,1464.22,Expense
+2022-12-28,Internet Bill,Utilities,771.61,Expense
+2022-12-30,Internet Bill,Utilities,1286.74,Expense
+2022-12-31,Monthly Rent,Rent,1065.71,Expense
+2023-01-04,Netflix Subscription,Entertainment,1259.88,Expense
+2023-01-06,Apartment Rent,Rent,1794.22,Expense
+2023-01-10,Mall Shopping,Shopping,635.86,Expense
+2023-01-13,Taxi Fare,Travel,1560.15,Expense
+2023-01-15,Taxi Fare,Travel,418.84,Expense
+2023-01-16,Concert Ticket,Entertainment,1498.21,Expense
+2023-01-17,Lunch Outside,Food & Drink,1569.77,Expense
+2023-01-18,Gaming Purchase,Entertainment,994.83,Expense
+2023-01-19,Breakfast,Food & Drink,1973.9,Expense
+2023-01-19,Gas Bill,Utilities,779.81,Expense
+2023-01-19,Clothing Purchase,Shopping,737.17,Expense
+2023-01-19,Salary Credit,Salary,1909.36,Expense
+2023-01-20,Breakfast,Food & Drink,1178.85,Expense
+2023-01-21,Grocery Shopping,Shopping,1018.16,Expense
+2023-01-22,Grocery Shopping,Shopping,852.91,Expense
+2023-01-23,Internet Bill,Utilities,562.16,Expense
+2023-01-23,Concert Ticket,Entertainment,1948.88,Expense
+2023-01-24,Monthly Rent,Rent,627.24,Expense
+2023-01-24,Netflix Subscription,Entertainment,125.23,Expense
+2023-01-24,Food Delivery,Food & Drink,625.49,Expense
+2023-01-24,Gas Bill,Utilities,247.69,Expense
+2023-01-24,Breakfast,Food & Drink,336.03,Expense
+2023-01-25,Bus Travel,Travel,342.26,Expense
+2023-01-27,Lunch Outside,Food & Drink,676.67,Expense
+2023-01-27,House Rent,Rent,533.27,Expense
+2023-01-28,Monthly Rent,Rent,997.33,Expense
+2023-01-29,Restaurant Dinner,Food & Drink,1004.22,Expense
+2023-01-29,Medical Expense,Health & Fitness,323.05,Expense
+2023-01-30,Monthly Rent,Rent,464.52,Expense
+2023-01-31,Food Delivery,Food & Drink,1718.79,Expense
+2023-02-01,Water Bill,Utilities,366.13,Expense
+2023-02-02,Breakfast,Food & Drink,1110.2,Expense
+2023-02-03,Mall Shopping,Shopping,456.79,Expense
+2023-02-06,Medical Expense,Health & Fitness,549.8,Expense
+2023-02-07,Cafe Visit,Food & Drink,366.9,Expense
+2023-02-08,Breakfast,Food & Drink,1908.62,Expense
+2023-02-09,Bus Travel,Travel,661.33,Expense
+2023-02-12,Cafe Visit,Food & Drink,744.15,Expense
+2023-02-13,Bus Travel,Travel,1481.76,Expense
+2023-02-15,Gym Membership,Health & Fitness,1187.46,Expense
+2023-02-16,Gaming Purchase,Entertainment,1467.6,Expense
+2023-02-18,Gaming Purchase,Entertainment,309.63,Expense
+2023-02-20,Restaurant Dinner,Food & Drink,473.67,Expense
+2023-02-20,Cafe Visit,Food & Drink,1902.47,Expense
+2023-02-24,Restaurant Dinner,Food & Drink,1945.39,Expense
+2023-02-26,Health Checkup,Health & Fitness,922.33,Expense
+2023-02-28,House Rent,Rent,1015.8,Expense
+2023-03-03,Mall Shopping,Shopping,158.91,Expense
+2023-03-03,Amazon Purchase,Shopping,1328.26,Expense
+2023-03-05,Mall Shopping,Shopping,1404.44,Expense
+2023-03-05,Health Checkup,Health & Fitness,910.99,Expense
+2023-03-07,Gaming Purchase,Entertainment,280.86,Expense
+2023-03-08,Monthly Rent,Rent,319.27,Expense
+2023-03-08,Health Checkup,Health & Fitness,1929.62,Expense
+2023-03-08,Bus Travel,Travel,932.06,Expense
+2023-03-10,Monthly Rent,Rent,323.65,Expense
+2023-03-10,Lunch Outside,Food & Drink,437.89,Expense
+2023-03-12,Mobile Recharge,Utilities,191.51,Expense
+2023-03-13,Health Checkup,Health & Fitness,798.53,Expense
+2023-03-13,Gas Bill,Utilities,71.85,Expense
+2023-03-15,Employer Deposit,Salary,1116.35,Expense
+2023-03-15,Monthly Rent,Rent,929.47,Expense
+2023-03-16,Mobile Recharge,Utilities,251.69,Expense
+2023-03-18,House Rent,Rent,1168.82,Expense
+2023-03-21,House Rent,Rent,53.38,Expense
+2023-03-24,Clothing Purchase,Shopping,1369.59,Expense
+2023-03-29,Salary Credit,Salary,1768.01,Expense
+2023-03-31,Salary Credit,Salary,131.35,Expense
+2023-03-31,Mobile Recharge,Utilities,844.28,Expense
+2023-04-01,Gaming Purchase,Entertainment,1265.2,Expense
+2023-04-01,Breakfast,Food & Drink,1978.91,Expense
+2023-04-04,Health Checkup,Health & Fitness,964.57,Expense
+2023-04-07,Gym Membership,Health & Fitness,1826.23,Expense
+2023-04-08,Grocery Shopping,Shopping,548.17,Expense
+2023-04-10,Bus Travel,Travel,126.6,Expense
+2023-04-10,Health Checkup,Health & Fitness,1536.02,Expense
+2023-04-13,Gas Bill,Utilities,209.27,Expense
+2023-04-15,Taxi Fare,Travel,1072.04,Expense
+2023-04-16,Cafe Visit,Food & Drink,1530.46,Expense
+2023-04-20,Clothing Purchase,Shopping,716.06,Expense
+2023-04-20,Water Bill,Utilities,360.44,Expense
+2023-04-21,Health Checkup,Health & Fitness,1828.82,Expense
+2023-04-22,Gaming Purchase,Entertainment,1675.03,Expense
+2023-04-23,Employer Deposit,Salary,1088.83,Expense
+2023-05-02,Lunch Outside,Food & Drink,670.15,Expense
+2023-05-02,Gas Bill,Utilities,688.11,Expense
+2023-05-05,Medical Expense,Health & Fitness,1921.51,Expense
+2023-05-05,Amazon Purchase,Shopping,1176.17,Expense
+2023-05-07,Health Checkup,Health & Fitness,281.54,Expense
+2023-05-14,Gas Bill,Utilities,1417.29,Expense
+2023-05-14,Gym Membership,Health & Fitness,454.24,Expense
+2023-05-14,Internet Bill,Utilities,762.98,Expense
+2023-05-15,Taxi Fare,Travel,263.42,Expense
+2023-05-15,Clothing Purchase,Shopping,1703.01,Expense
+2023-05-16,Food Delivery,Food & Drink,372.34,Expense
+2023-05-17,Gaming Purchase,Entertainment,1282.9,Expense
+2023-05-19,Monthly Rent,Rent,483.61,Expense
+2023-05-20,Water Bill,Utilities,1276.01,Expense
+2023-05-20,Medical Expense,Health & Fitness,898.79,Expense
+2023-05-20,Concert Ticket,Entertainment,1389.42,Expense
+2023-05-22,Apartment Rent,Rent,1443.62,Expense
+2023-05-22,Clothing Purchase,Shopping,991.23,Expense
+2023-05-25,Amazon Purchase,Shopping,211.84,Expense
+2023-05-28,Gaming Purchase,Entertainment,333.69,Expense
+2023-06-03,Monthly Rent,Rent,682.52,Expense
+2023-06-04,Monthly Salary,Salary,1411.96,Expense
+2023-06-05,Gas Bill,Utilities,1218.56,Expense
+2023-06-08,Cafe Visit,Food & Drink,211.5,Expense
+2023-06-08,Concert Ticket,Entertainment,824.47,Expense
+2023-06-09,Uber Ride,Travel,1324.59,Expense
+2023-06-09,Monthly Rent,Rent,108.77,Expense
+2023-06-10,Employer Deposit,Salary,315.64,Expense
+2023-06-10,Grocery Shopping,Shopping,184.38,Expense
+2023-06-13,Employer Deposit,Salary,407.35,Expense
+2023-06-16,Employer Deposit,Salary,1689.1,Expense
+2023-06-16,Clothing Purchase,Shopping,947.18,Expense
+2023-06-17,Bus Travel,Travel,191.36,Expense
+2023-06-17,Electricity Bill,Utilities,748.33,Expense
+2023-06-19,Internet Bill,Utilities,897.09,Expense
+2023-06-21,Monthly Salary,Salary,534.17,Expense
+2023-06-22,Lunch Outside,Food & Drink,310.75,Expense
+2023-06-22,Apartment Rent,Rent,180.56,Expense
+2023-06-23,Grocery Shopping,Shopping,1941.7,Expense
+2023-06-25,Cafe Visit,Food & Drink,1683.19,Expense
+2023-06-25,Clothing Purchase,Shopping,1931.6,Expense
+2023-06-25,Employer Deposit,Salary,1149.7,Expense
+2023-06-26,Taxi Fare,Travel,167.12,Expense
+2023-06-30,Breakfast,Food & Drink,1009.18,Expense
+2023-07-01,Water Bill,Utilities,249.36,Expense
+2023-07-02,Internet Bill,Utilities,1898.63,Expense
+2023-07-06,Grocery Shopping,Shopping,411.82,Expense
+2023-07-07,Mobile Recharge,Utilities,1669.88,Expense
+2023-07-07,House Rent,Rent,183.18,Expense
+2023-07-10,Pharmacy Purchase,Health & Fitness,1714.68,Expense
+2023-07-10,Cafe Visit,Food & Drink,1575.24,Expense
+2023-07-10,Clothing Purchase,Shopping,233.91,Expense
+2023-07-11,Monthly Rent,Rent,1573.63,Expense
+2023-07-13,Health Checkup,Health & Fitness,1757.01,Expense
+2023-07-15,Salary Credit,Salary,1148.33,Expense
+2023-07-15,Mobile Recharge,Utilities,558.07,Expense
+2023-07-15,Gym Membership,Health & Fitness,1384.12,Expense
+2023-07-16,Breakfast,Food & Drink,682.35,Expense
+2023-07-17,Taxi Fare,Travel,567.89,Expense
+2023-07-18,Monthly Rent,Rent,1945.27,Expense
+2023-07-19,Taxi Fare,Travel,1948.7,Expense
+2023-07-19,Health Checkup,Health & Fitness,546.15,Expense
+2023-07-20,Apartment Rent,Rent,383.99,Expense
+2023-07-21,Mall Shopping,Shopping,1484.48,Expense
+2023-07-23,Health Checkup,Health & Fitness,1643.82,Expense
+2023-07-25,Mobile Recharge,Utilities,140.58,Expense
+2023-07-26,Clothing Purchase,Shopping,279.94,Expense
+2023-07-27,Lunch Outside,Food & Drink,355.74,Expense
+2023-07-27,Movie Tickets,Entertainment,1675.58,Expense
+2023-07-30,Monthly Salary,Salary,110.61,Expense
+2023-08-01,Concert Ticket,Entertainment,555.22,Expense
+2023-08-04,Clothing Purchase,Shopping,1274.47,Expense
+2023-08-07,Monthly Salary,Salary,363.39,Expense
+2023-08-07,Medical Expense,Health & Fitness,695.06,Expense
+2023-08-09,Taxi Fare,Travel,1500.43,Expense
+2023-08-09,Train Ticket,Travel,64.63,Expense
+2023-08-10,Gaming Purchase,Entertainment,545.48,Expense
+2023-08-11,Food Delivery,Food & Drink,1730.61,Expense
+2023-08-16,Lunch Outside,Food & Drink,953.45,Expense
+2023-08-17,Uber Ride,Travel,1428.35,Expense
+2023-08-21,Bus Travel,Travel,853.38,Expense
+2023-08-22,Pharmacy Purchase,Health & Fitness,923.41,Expense
+2023-08-23,Taxi Fare,Travel,1357.62,Expense
+2023-08-25,Mall Shopping,Shopping,1173.13,Expense
+2023-08-30,Monthly Rent,Rent,968.66,Expense
+2023-08-30,Uber Ride,Travel,1284.78,Expense
+2023-08-30,Train Ticket,Travel,1315.68,Expense
+2023-08-30,Taxi Fare,Travel,384.84,Expense
+2023-09-01,Concert Ticket,Entertainment,1800.38,Expense
+2023-09-01,Clothing Purchase,Shopping,1324.46,Expense
+2023-09-03,Lunch Outside,Food & Drink,1314.25,Expense
+2023-09-04,Taxi Fare,Travel,1814.75,Expense
+2023-09-04,Restaurant Dinner,Food & Drink,1170.22,Expense
+2023-09-04,Concert Ticket,Entertainment,692.9,Expense
+2023-09-07,Monthly Salary,Salary,1813.99,Expense
+2023-09-10,Taxi Fare,Travel,1692.38,Expense
+2023-09-11,Water Bill,Utilities,594.63,Expense
+2023-09-11,Bus Travel,Travel,1453.12,Expense
+2023-09-12,Internet Bill,Utilities,1894.38,Expense
+2023-09-12,Monthly Rent,Rent,452.28,Expense
+2023-09-13,Taxi Fare,Travel,846.74,Expense
+2023-09-14,Health Checkup,Health & Fitness,528.51,Expense
+2023-09-14,House Rent,Rent,946.37,Expense
+2023-09-14,Apartment Rent,Rent,949.72,Expense
+2023-09-15,Amazon Purchase,Shopping,117.58,Expense
+2023-09-16,Internet Bill,Utilities,1984.77,Expense
+2023-09-16,Salary Credit,Salary,295.02,Expense
+2023-09-21,Mobile Recharge,Utilities,1560.09,Expense
+2023-09-21,Mobile Recharge,Utilities,633.69,Expense
+2023-09-24,Water Bill,Utilities,1156.8,Expense
+2023-09-29,Mall Shopping,Shopping,812.75,Expense
+2023-10-03,Mall Shopping,Shopping,19.29,Expense
+2023-10-04,Gym Membership,Health & Fitness,1900.64,Expense
+2023-10-04,Gaming Purchase,Entertainment,45.65,Expense
+2023-10-06,Health Checkup,Health & Fitness,631.06,Expense
+2023-10-08,Salary Credit,Salary,1458.39,Expense
+2023-10-09,Medical Expense,Health & Fitness,872.99,Expense
+2023-10-09,Mobile Recharge,Utilities,692.04,Expense
+2023-10-11,Pharmacy Purchase,Health & Fitness,1502.73,Expense
+2023-10-14,Gas Bill,Utilities,430.27,Expense
+2023-10-15,Cafe Visit,Food & Drink,756.63,Expense
+2023-10-15,Lunch Outside,Food & Drink,1191.91,Expense
+2023-10-17,House Rent,Rent,1099.09,Expense
+2023-10-27,Water Bill,Utilities,418.93,Expense
+2023-10-27,Food Delivery,Food & Drink,609.22,Expense
+2023-10-29,Train Ticket,Travel,1249.37,Expense
+2023-10-30,Amazon Purchase,Shopping,1663.0,Expense
+2023-11-08,Movie Tickets,Entertainment,722.26,Expense
+2023-11-08,Internet Bill,Utilities,88.42,Expense
+2023-11-08,Concert Ticket,Entertainment,1379.53,Expense
+2023-11-09,Gaming Purchase,Entertainment,15.45,Expense
+2023-11-09,Monthly Rent,Rent,1672.11,Expense
+2023-11-11,Internet Bill,Utilities,1899.4,Expense
+2023-11-11,Apartment Rent,Rent,1449.89,Expense
+2023-11-14,Taxi Fare,Travel,535.61,Expense
+2023-11-15,Health Checkup,Health & Fitness,1605.18,Expense
+2023-11-17,House Rent,Rent,199.05,Expense
+2023-11-18,Cafe Visit,Food & Drink,29.25,Expense
+2023-11-21,Employer Deposit,Salary,1910.63,Expense
+2023-11-22,Apartment Rent,Rent,751.52,Expense
+2023-11-23,Apartment Rent,Rent,807.55,Expense
+2023-11-23,Train Ticket,Travel,1673.06,Expense
+2023-11-26,Employer Deposit,Salary,1601.8,Expense
+2023-11-26,Internet Bill,Utilities,234.98,Expense
+2023-11-26,Lunch Outside,Food & Drink,1963.32,Expense
+2023-11-26,Monthly Rent,Rent,837.9,Expense
+2023-11-27,Monthly Salary,Salary,370.71,Expense
+2023-11-27,Gym Membership,Health & Fitness,1226.6,Expense
+2023-11-28,Electricity Bill,Utilities,971.33,Expense
+2023-11-28,Mall Shopping,Shopping,886.97,Expense
+2023-12-05,Netflix Subscription,Entertainment,1956.01,Expense
+2023-12-05,Health Checkup,Health & Fitness,1043.01,Expense
+2023-12-06,Monthly Rent,Rent,871.37,Expense
+2023-12-08,Employer Deposit,Salary,698.04,Expense
+2023-12-09,Grocery Shopping,Shopping,305.82,Expense
+2023-12-09,Food Delivery,Food & Drink,33.17,Expense
+2023-12-10,Employer Deposit,Salary,1705.22,Expense
+2023-12-11,Apartment Rent,Rent,1505.35,Expense
+2023-12-13,Medical Expense,Health & Fitness,1940.59,Expense
+2023-12-14,Gaming Purchase,Entertainment,166.87,Expense
+2023-12-18,Employer Deposit,Salary,185.16,Expense
+2023-12-20,Gym Membership,Health & Fitness,246.23,Expense
+2023-12-21,Food Delivery,Food & Drink,214.26,Expense
+2023-12-22,Restaurant Dinner,Food & Drink,1653.56,Expense
+2023-12-23,Bus Travel,Travel,1781.32,Expense
+2023-12-25,Salary Credit,Salary,1901.21,Expense
+2023-12-26,Restaurant Dinner,Food & Drink,1635.01,Expense
+2023-12-27,Pharmacy Purchase,Health & Fitness,1124.7,Expense
+2023-12-29,Employer Deposit,Salary,1436.15,Expense
+2023-12-29,Monthly Salary,Salary,236.91,Expense
+2023-12-29,Netflix Subscription,Entertainment,14.37,Expense
+2024-01-02,Taxi Fare,Travel,1099.9,Expense
+2024-01-02,Monthly Rent,Rent,101.1,Expense
+2024-01-09,Concert Ticket,Entertainment,1436.41,Expense
+2024-01-10,Monthly Rent,Rent,1546.57,Expense
+2024-01-11,Gas Bill,Utilities,1928.07,Expense
+2024-01-11,Employer Deposit,Salary,1849.5,Expense
+2024-01-12,Mobile Recharge,Utilities,1386.72,Expense
+2024-01-14,Pharmacy Purchase,Health & Fitness,1013.18,Expense
+2024-01-15,Gaming Purchase,Entertainment,554.46,Expense
+2024-01-16,Bus Travel,Travel,911.16,Expense
+2024-01-16,Gym Membership,Health & Fitness,1426.63,Expense
+2024-01-17,Netflix Subscription,Entertainment,409.77,Expense
+2024-01-19,Taxi Fare,Travel,1376.36,Expense
+2024-01-19,Gas Bill,Utilities,1962.86,Expense
+2024-01-19,Water Bill,Utilities,1012.75,Expense
+2024-01-19,Medical Expense,Health & Fitness,1423.6,Expense
+2024-01-20,Employer Deposit,Salary,1169.78,Expense
+2024-01-22,Amazon Purchase,Shopping,1351.74,Expense
+2024-01-23,Bus Travel,Travel,1756.18,Expense
+2024-01-24,Cafe Visit,Food & Drink,1050.23,Expense
+2024-01-26,Gaming Purchase,Entertainment,541.29,Expense
+2024-01-26,Taxi Fare,Travel,1369.95,Expense
+2024-01-27,Cafe Visit,Food & Drink,723.78,Expense
+2024-01-28,Netflix Subscription,Entertainment,1487.4,Expense
+2024-01-30,Concert Ticket,Entertainment,1026.74,Expense
+2024-02-01,Bus Travel,Travel,1388.94,Expense
+2024-02-07,Medical Expense,Health & Fitness,1932.01,Expense
+2024-02-10,Employer Deposit,Salary,1661.67,Expense
+2024-02-10,Pharmacy Purchase,Health & Fitness,1512.66,Expense
+2024-02-10,Concert Ticket,Entertainment,1554.53,Expense
+2024-02-14,Bus Travel,Travel,903.14,Expense
+2024-02-14,Apartment Rent,Rent,382.08,Expense
+2024-02-19,Gas Bill,Utilities,89.48,Expense
+2024-02-21,Restaurant Dinner,Food & Drink,1549.59,Expense
+2024-02-21,Bus Travel,Travel,986.2,Expense
+2024-02-21,Health Checkup,Health & Fitness,155.03,Expense
+2024-02-22,Movie Tickets,Entertainment,1914.41,Expense
+2024-02-23,Gas Bill,Utilities,837.7,Expense
+2024-02-23,Monthly Rent,Rent,705.31,Expense
+2024-02-24,Health Checkup,Health & Fitness,668.82,Expense
+2024-02-24,Monthly Salary,Salary,1993.3,Expense
+2024-02-25,Breakfast,Food & Drink,238.3,Expense
+2024-02-27,Netflix Subscription,Entertainment,1809.95,Expense
+2024-02-27,Movie Tickets,Entertainment,1918.2,Expense
+2024-02-27,Gym Membership,Health & Fitness,768.93,Expense
+2024-02-28,Monthly Rent,Rent,777.89,Expense
+2024-02-29,Train Ticket,Travel,59.16,Expense
+2024-03-02,Gym Membership,Health & Fitness,1033.48,Expense
+2024-03-03,Monthly Salary,Salary,97.26,Expense
+2024-03-05,Netflix Subscription,Entertainment,647.42,Expense
+2024-03-06,Lunch Outside,Food & Drink,1257.6,Expense
+2024-03-06,Movie Tickets,Entertainment,1731.25,Expense
+2024-03-06,Monthly Rent,Rent,419.1,Expense
+2024-03-07,Mall Shopping,Shopping,1296.66,Expense
+2024-03-07,Electricity Bill,Utilities,57.27,Expense
+2024-03-08,Breakfast,Food & Drink,184.17,Expense
+2024-03-13,Movie Tickets,Entertainment,1822.86,Expense
+2024-03-15,Monthly Salary,Salary,1264.13,Expense
+2024-03-16,Lunch Outside,Food & Drink,785.11,Expense
+2024-03-26,Food Delivery,Food & Drink,1404.76,Expense
+2024-03-28,Train Ticket,Travel,1217.07,Expense
+2024-03-29,Monthly Salary,Salary,769.01,Expense
+2024-03-30,Restaurant Dinner,Food & Drink,953.24,Expense
+2024-03-30,Internet Bill,Utilities,1496.04,Expense
+2024-04-03,Train Ticket,Travel,1920.67,Expense
+2024-04-06,Water Bill,Utilities,255.24,Expense
+2024-04-08,Monthly Rent,Rent,616.34,Expense
+2024-04-09,Gym Membership,Health & Fitness,431.36,Expense
+2024-04-09,Water Bill,Utilities,330.3,Expense
+2024-04-10,Taxi Fare,Travel,396.71,Expense
+2024-04-11,House Rent,Rent,588.4,Expense
+2024-04-16,Monthly Salary,Salary,1903.56,Expense
+2024-04-17,Movie Tickets,Entertainment,209.09,Expense
+2024-04-17,Netflix Subscription,Entertainment,642.39,Expense
+2024-04-17,Taxi Fare,Travel,1389.98,Expense
+2024-04-20,Mobile Recharge,Utilities,19.62,Expense
+2024-04-21,Movie Tickets,Entertainment,1427.28,Expense
+2024-04-22,Train Ticket,Travel,1681.82,Expense
+2024-04-25,Medical Expense,Health & Fitness,1551.79,Expense
+2024-04-26,House Rent,Rent,359.78,Expense
+2024-04-26,Bus Travel,Travel,1718.84,Expense
+2024-05-02,House Rent,Rent,1457.58,Expense
+2024-05-03,Restaurant Dinner,Food & Drink,1627.16,Expense
+2024-05-04,Concert Ticket,Entertainment,1813.54,Expense
+2024-05-04,Salary Credit,Salary,1311.28,Expense
+2024-05-05,Train Ticket,Travel,276.42,Expense
+2024-05-14,Apartment Rent,Rent,799.6,Expense
+2024-05-15,Netflix Subscription,Entertainment,1697.48,Expense
+2024-05-17,Mobile Recharge,Utilities,1516.84,Expense
+2024-05-22,Water Bill,Utilities,1474.48,Expense
+2024-05-23,Gym Membership,Health & Fitness,90.44,Expense
+2024-05-25,Movie Tickets,Entertainment,135.09,Expense
+2024-05-26,Cafe Visit,Food & Drink,1340.49,Expense
+2024-05-27,Pharmacy Purchase,Health & Fitness,782.31,Expense
+2024-05-27,Breakfast,Food & Drink,89.41,Expense
+2024-05-31,Monthly Rent,Rent,1410.44,Expense
+2024-06-01,Taxi Fare,Travel,1671.4,Expense
+2024-06-02,Gas Bill,Utilities,759.55,Expense
+2024-06-02,Monthly Rent,Rent,1038.16,Expense
+2024-06-03,Movie Tickets,Entertainment,1037.58,Expense
+2024-06-04,Pharmacy Purchase,Health & Fitness,978.85,Expense
+2024-06-06,Restaurant Dinner,Food & Drink,1008.66,Expense
+2024-06-12,House Rent,Rent,1325.61,Expense
+2024-06-13,Health Checkup,Health & Fitness,1443.31,Expense
+2024-06-13,Monthly Salary,Salary,963.25,Expense
+2024-06-14,Grocery Shopping,Shopping,54.67,Expense
+2024-06-16,Food Delivery,Food & Drink,1782.69,Expense
+2024-06-21,Mall Shopping,Shopping,1202.72,Expense
+2024-06-21,Breakfast,Food & Drink,1758.23,Expense
+2024-06-22,Uber Ride,Travel,1895.04,Expense
+2024-06-23,Employer Deposit,Salary,1735.93,Expense
+2024-06-23,Water Bill,Utilities,1250.19,Expense
+2024-06-23,Gas Bill,Utilities,1451.13,Expense
+2024-06-23,Employer Deposit,Salary,1197.1,Expense
+2024-07-06,Amazon Purchase,Shopping,1654.76,Expense
+2024-07-07,Water Bill,Utilities,956.98,Expense
+2024-07-07,Cafe Visit,Food & Drink,1756.73,Expense
+2024-07-07,House Rent,Rent,195.45,Expense
+2024-07-07,Lunch Outside,Food & Drink,1794.97,Expense
+2024-07-13,Grocery Shopping,Shopping,1048.87,Expense
+2024-07-13,Cafe Visit,Food & Drink,1398.31,Expense
+2024-07-16,Salary Credit,Salary,1581.22,Expense
+2024-07-20,Monthly Rent,Rent,856.72,Expense
+2024-07-21,Gaming Purchase,Entertainment,1821.07,Expense
+2024-07-25,Gym Membership,Health & Fitness,823.6,Expense
+2024-07-26,Clothing Purchase,Shopping,1133.69,Expense
+2024-07-26,Grocery Shopping,Shopping,1512.39,Expense
+2024-07-26,Employer Deposit,Salary,365.65,Expense
+2024-07-27,Employer Deposit,Salary,515.02,Expense
+2024-07-27,Gym Membership,Health & Fitness,1550.65,Expense
+2024-07-27,Electricity Bill,Utilities,1711.45,Expense
+2024-07-28,Gaming Purchase,Entertainment,898.72,Expense
+2024-07-28,Gas Bill,Utilities,209.55,Expense
+2024-07-29,Health Checkup,Health & Fitness,1603.7,Expense
+2024-07-29,Lunch Outside,Food & Drink,329.87,Expense
+2024-07-29,Food Delivery,Food & Drink,1610.7,Expense
+2024-07-30,Employer Deposit,Salary,1852.46,Expense
+2024-07-30,Monthly Rent,Rent,533.55,Expense
+2024-08-01,Breakfast,Food & Drink,1451.74,Expense
+2024-08-02,Amazon Purchase,Shopping,1231.79,Expense
+2024-08-02,Cafe Visit,Food & Drink,1891.97,Expense
+2024-08-03,Monthly Salary,Salary,883.55,Expense
+2024-08-03,Train Ticket,Travel,397.55,Expense
+2024-08-08,Netflix Subscription,Entertainment,1234.23,Expense
+2024-08-09,Health Checkup,Health & Fitness,486.12,Expense
+2024-08-14,Grocery Shopping,Shopping,712.72,Expense
+2024-08-14,Gaming Purchase,Entertainment,1040.31,Expense
+2024-08-14,Monthly Rent,Rent,1839.16,Expense
+2024-08-15,Pharmacy Purchase,Health & Fitness,701.48,Expense
+2024-08-22,Gaming Purchase,Entertainment,1216.66,Expense
+2024-08-25,Clothing Purchase,Shopping,1017.41,Expense
+2024-08-25,Bus Travel,Travel,686.53,Expense
+2024-08-27,Uber Ride,Travel,1391.44,Expense
+2024-08-27,Monthly Salary,Salary,1542.23,Expense
+2024-08-28,Salary Credit,Salary,1366.37,Expense
+2024-08-28,Restaurant Dinner,Food & Drink,969.12,Expense
+2024-08-28,Mall Shopping,Shopping,1270.99,Expense
+2024-08-30,Concert Ticket,Entertainment,1602.32,Expense
+2024-09-01,Pharmacy Purchase,Health & Fitness,1037.84,Expense
+2024-09-05,Amazon Purchase,Shopping,1350.66,Expense
+2024-09-05,House Rent,Rent,1113.56,Expense
+2024-09-05,Uber Ride,Travel,373.74,Expense
+2024-09-06,Movie Tickets,Entertainment,1003.01,Expense
+2024-09-08,Netflix Subscription,Entertainment,1671.53,Expense
+2024-09-10,Gym Membership,Health & Fitness,320.43,Expense
+2024-09-15,Restaurant Dinner,Food & Drink,1697.54,Expense
+2024-09-16,Health Checkup,Health & Fitness,989.76,Expense
+2024-09-17,Uber Ride,Travel,986.7,Expense
+2024-09-17,Uber Ride,Travel,801.78,Expense
+2024-09-17,Electricity Bill,Utilities,117.75,Expense
+2024-09-18,Employer Deposit,Salary,1879.91,Expense
+2024-09-22,Mobile Recharge,Utilities,919.82,Expense
+2024-09-24,Food Delivery,Food & Drink,1351.47,Expense
+2024-09-25,Apartment Rent,Rent,657.62,Expense
+2024-09-26,Uber Ride,Travel,382.43,Expense
+2024-09-26,Uber Ride,Travel,947.98,Expense
+2024-09-27,Pharmacy Purchase,Health & Fitness,375.99,Expense
+2024-09-27,Mall Shopping,Shopping,1404.42,Expense
+2024-10-01,Mall Shopping,Shopping,566.46,Expense
+2024-10-02,Taxi Fare,Travel,1610.13,Expense
+2024-10-02,Amazon Purchase,Shopping,400.17,Expense
+2024-10-03,Mobile Recharge,Utilities,951.24,Expense
+2024-10-07,Restaurant Dinner,Food & Drink,802.82,Expense
+2024-10-08,Breakfast,Food & Drink,438.78,Expense
+2024-10-09,Apartment Rent,Rent,905.21,Expense
+2024-10-10,Pharmacy Purchase,Health & Fitness,727.01,Expense
+2024-10-10,Uber Ride,Travel,694.84,Expense
+2024-10-11,Medical Expense,Health & Fitness,1736.06,Expense
+2024-10-12,Netflix Subscription,Entertainment,1157.94,Expense
+2024-10-15,Mobile Recharge,Utilities,1958.95,Expense
+2024-10-17,Pharmacy Purchase,Health & Fitness,1349.65,Expense
+2024-10-17,Employer Deposit,Salary,1780.37,Expense
+2024-10-18,Train Ticket,Travel,932.87,Expense
+2024-10-19,Internet Bill,Utilities,1284.76,Expense
+2024-10-19,Amazon Purchase,Shopping,1266.23,Expense
+2024-10-21,House Rent,Rent,167.43,Expense
+2024-10-21,Pharmacy Purchase,Health & Fitness,640.59,Expense
+2024-10-21,Train Ticket,Travel,1214.72,Expense
+2024-10-23,Salary Credit,Salary,1564.14,Expense
+2024-10-24,Employer Deposit,Salary,833.84,Expense
+2024-11-01,Train Ticket,Travel,1881.47,Expense
+2024-11-02,Monthly Rent,Rent,429.04,Expense
+2024-11-03,House Rent,Rent,136.95,Expense
+2024-11-03,Cafe Visit,Food & Drink,62.47,Expense
+2024-11-11,Apartment Rent,Rent,216.82,Expense
+2024-11-11,House Rent,Rent,1313.12,Expense
+2024-11-12,Taxi Fare,Travel,466.42,Expense
+2024-11-13,Salary Credit,Salary,1256.7,Expense
+2024-11-13,Employer Deposit,Salary,1950.21,Expense
+2024-11-14,Train Ticket,Travel,1101.61,Expense
+2024-11-16,Clothing Purchase,Shopping,1051.69,Expense
+2024-11-17,Uber Ride,Travel,1818.76,Expense
+2024-11-17,Gaming Purchase,Entertainment,1611.37,Expense
+2024-11-17,Gym Membership,Health & Fitness,830.29,Expense
+2024-11-18,Gas Bill,Utilities,694.33,Expense
+2024-11-18,Restaurant Dinner,Food & Drink,1378.66,Expense
+2024-11-19,Employer Deposit,Salary,606.22,Expense
+2024-11-20,Bus Travel,Travel,1198.04,Expense
+2024-11-20,Health Checkup,Health & Fitness,385.26,Expense
+2024-11-22,Clothing Purchase,Shopping,795.56,Expense
+2024-11-24,House Rent,Rent,850.26,Expense
+2024-11-24,Train Ticket,Travel,576.51,Expense
+2024-11-24,Train Ticket,Travel,831.68,Expense
+2024-11-25,Electricity Bill,Utilities,281.88,Expense
+2024-11-25,Employer Deposit,Salary,383.7,Expense
+2024-11-30,Salary Credit,Salary,1456.94,Expense
+2024-12-02,Mobile Recharge,Utilities,39.3,Expense
+2024-12-05,Mall Shopping,Shopping,630.04,Expense
+2024-12-06,Health Checkup,Health & Fitness,932.73,Expense
+2024-12-09,Gym Membership,Health & Fitness,169.64,Expense
+2024-12-11,Electricity Bill,Utilities,121.52,Expense
+2024-12-12,House Rent,Rent,1090.95,Expense
+2024-12-15,House Rent,Rent,1949.45,Expense
+2024-12-16,Amazon Purchase,Shopping,1544.74,Expense
+2024-12-19,Cafe Visit,Food & Drink,406.37,Expense
+2024-12-19,Apartment Rent,Rent,1047.07,Expense
+2024-12-21,Salary Credit,Salary,784.35,Expense
+2024-12-23,Gym Membership,Health & Fitness,325.64,Expense
+2024-12-28,Monthly Rent,Rent,514.09,Expense
+2024-12-28,Gaming Purchase,Entertainment,727.25,Expense
+2024-12-29,Clothing Purchase,Shopping,655.78,Expense
+2024-12-30,Train Ticket,Travel,911.77,Expense
+2024-12-30,Mall Shopping,Shopping,3733.44,Expense
+2024-12-31,Taxi,Travel,1138.01,Expense
+2025-01-01,Mall Shopping,Shopping,3700.74,Expense
+2025-01-02,Food Delivery,Food & Drink,255.43,Expense
+2025-01-03,House Rent,Rent,16787.98,Expense
+2025-01-03,Train Ticket,Travel,1142.93,Expense
+2025-01-04,House Rent,Rent,13777.33,Expense
+2025-01-04,Mobile Recharge,Utilities,1504.52,Expense
+2025-01-04,Water Bill,Utilities,1500.73,Expense
+2025-01-05,House Rent,Rent,14077.36,Expense
+2025-01-05,Lunch,Food & Drink,990.54,Expense
+2025-01-05,Online Order,Shopping,1257.13,Expense
+2025-01-06,Online Order,Shopping,2064.91,Expense
+2025-01-06,Electricity Bill,Utilities,1713.4,Expense
+2025-01-07,Health Checkup,Health & Fitness,3561.23,Expense
+2025-01-08,Clothing Purchase,Shopping,2660.32,Expense
+2025-01-10,Train Ticket,Travel,1350.73,Expense
+2025-01-11,Lunch,Food & Drink,559.51,Expense
+2025-01-11,Clothing Purchase,Shopping,3535.21,Expense
+2025-01-13,Pharmacy,Health & Fitness,1688.39,Expense
+2025-01-15,Train Ticket,Travel,1217.08,Expense
+2025-01-15,Cafe Visit,Food & Drink,956.77,Expense
+2025-01-17,Restaurant,Food & Drink,1157.92,Expense
+2025-01-17,Mobile Recharge,Utilities,2055.02,Expense
+2025-01-19,Electricity Bill,Utilities,616.36,Expense
+2025-01-23,Electricity Bill,Utilities,1328.47,Expense
+2025-01-23,Dinner,Food & Drink,1086.88,Expense
+2025-01-24,Health Checkup,Health & Fitness,2337.95,Expense
+2025-01-24,Internet Bill,Utilities,1632.4,Expense
+2025-01-27,Mall Shopping,Shopping,2845.58,Expense
+2025-01-28,Pharmacy,Health & Fitness,1505.95,Expense
+2025-01-29,Mobile Recharge,Utilities,2235.27,Expense
+2025-01-29,Food Delivery,Food & Drink,1171.58,Expense
+2025-02-02,Dinner,Food & Drink,804.22,Expense
+2025-02-02,Water Bill,Utilities,684.85,Expense
+2025-02-03,House Rent,Rent,15120.46,Expense
+2025-02-03,Online Order,Shopping,1598.57,Expense
+2025-02-03,Lunch,Food & Drink,655.0,Expense
+2025-02-04,House Rent,Rent,13889.53,Expense
+2025-02-04,Groceries,Shopping,4935.55,Expense
+2025-02-04,Food Delivery,Food & Drink,260.87,Expense
+2025-02-05,House Rent,Rent,17836.52,Expense
+2025-02-05,Taxi,Travel,1258.21,Expense
+2025-02-05,Mobile Recharge,Utilities,1536.19,Expense
+2025-02-06,Uber Ride,Travel,945.34,Expense
+2025-02-06,Electricity Bill,Utilities,2080.94,Expense
+2025-02-08,Health Checkup,Health & Fitness,1148.11,Expense
+2025-02-08,Gym Membership,Health & Fitness,3846.17,Expense
+2025-02-09,Gym Membership,Health & Fitness,3311.86,Expense
+2025-02-10,Online Order,Shopping,2374.57,Expense
+2025-02-10,Clothing Purchase,Shopping,4398.56,Expense
+2025-02-11,Taxi,Travel,882.94,Expense
+2025-02-11,Clothing Purchase,Shopping,4765.87,Expense
+2025-02-13,Online Order,Shopping,3897.86,Expense
+2025-02-15,Lunch,Food & Drink,520.46,Expense
+2025-02-16,Health Checkup,Health & Fitness,3307.39,Expense
+2025-02-18,Pharmacy,Health & Fitness,3692.48,Expense
+2025-02-19,Cafe Visit,Food & Drink,840.88,Expense
+2025-02-20,Clothing Purchase,Shopping,1048.13,Expense
+2025-02-21,Train Ticket,Travel,1186.99,Expense
+2025-02-22,Dinner,Food & Drink,649.48,Expense
+2025-02-22,Gym Membership,Health & Fitness,742.71,Expense
+2025-02-23,Water Bill,Utilities,1513.42,Expense
+2025-02-24,Mobile Recharge,Utilities,692.0,Expense
+2025-02-25,Bus Ticket,Travel,233.75,Expense
+2025-02-25,Mobile Recharge,Utilities,1275.48,Expense
+2025-02-27,Bus Ticket,Travel,270.5,Expense
+2025-03-01,Clothing Purchase,Shopping,3994.59,Expense
+2025-03-02,Water Bill,Utilities,484.93,Expense
+2025-03-02,Dinner,Food & Drink,479.09,Expense
+2025-03-03,House Rent,Rent,13498.13,Expense
+2025-03-04,House Rent,Rent,16819.11,Expense
+2025-03-05,House Rent,Rent,16247.55,Expense
+2025-03-06,Lunch,Food & Drink,204.39,Expense
+2025-03-06,Internet Bill,Utilities,688.51,Expense
+2025-03-07,Water Bill,Utilities,1006.31,Expense
+2025-03-07,Pharmacy,Health & Fitness,2962.18,Expense
+2025-03-09,Clothing Purchase,Shopping,841.4,Expense
+2025-03-10,Health Checkup,Health & Fitness,3093.58,Expense
+2025-03-10,Clothing Purchase,Shopping,2631.96,Expense
+2025-03-12,Restaurant,Food & Drink,681.16,Expense
+2025-03-13,Online Order,Shopping,1491.35,Expense
+2025-03-13,Mobile Recharge,Utilities,741.29,Expense
+2025-03-14,Mall Shopping,Shopping,4347.68,Expense
+2025-03-15,Mall Shopping,Shopping,3708.05,Expense
+2025-03-19,Gym Membership,Health & Fitness,2546.31,Expense
+2025-03-20,Health Checkup,Health & Fitness,2597.34,Expense
+2025-03-21,Uber Ride,Travel,1106.41,Expense
+2025-03-21,Health Checkup,Health & Fitness,1455.27,Expense
+2025-03-22,Groceries,Shopping,4372.73,Expense
+2025-03-22,Cafe Visit,Food & Drink,1177.74,Expense
+2025-03-24,Train Ticket,Travel,1209.54,Expense
+2025-03-25,Dinner,Food & Drink,581.12,Expense
+2025-03-25,Pharmacy,Health & Fitness,2193.3,Expense
+2025-03-27,Food Delivery,Food & Drink,1182.59,Expense
+2025-03-28,Uber Ride,Travel,536.87,Expense
+2025-03-30,Pharmacy,Health & Fitness,723.03,Expense
+2025-04-02,Online Order,Shopping,2941.22,Expense
+2025-04-03,House Rent,Rent,17574.16,Expense
+2025-04-04,House Rent,Rent,15858.58,Expense
+2025-04-04,Taxi,Travel,1459.57,Expense
+2025-04-04,Uber Ride,Travel,1398.58,Expense
+2025-04-05,House Rent,Rent,13742.27,Expense
+2025-04-05,Lunch,Food & Drink,1063.89,Expense
+2025-04-06,Dinner,Food & Drink,710.55,Expense
+2025-04-06,Restaurant,Food & Drink,268.92,Expense
+2025-04-07,Dinner,Food & Drink,991.53,Expense
+2025-04-08,Mall Shopping,Shopping,2003.52,Expense
+2025-04-08,Taxi,Travel,83.33,Expense
+2025-04-10,Electricity Bill,Utilities,701.16,Expense
+2025-04-10,Online Order,Shopping,754.19,Expense
+2025-04-12,Electricity Bill,Utilities,1175.35,Expense
+2025-04-13,Gym Membership,Health & Fitness,3864.69,Expense
+2025-04-13,Cafe Visit,Food & Drink,180.69,Expense
+2025-04-15,Train Ticket,Travel,1099.14,Expense
+2025-04-16,Lunch,Food & Drink,571.55,Expense
+2025-04-19,Uber Ride,Travel,669.85,Expense
+2025-04-20,Clothing Purchase,Shopping,4259.3,Expense
+2025-04-20,Gym Membership,Health & Fitness,1023.34,Expense
+2025-04-22,Groceries,Shopping,4805.13,Expense
+2025-04-22,Internet Bill,Utilities,1710.76,Expense
+2025-04-24,Uber Ride,Travel,729.65,Expense
+2025-04-26,Uber Ride,Travel,456.79,Expense
+2025-04-28,Groceries,Shopping,3499.62,Expense
+2025-04-28,Pharmacy,Health & Fitness,1021.8,Expense
+2025-04-29,Cafe Visit,Food & Drink,789.69,Expense
+2025-04-30,Uber Ride,Travel,1143.09,Expense
+2025-04-30,Mall Shopping,Shopping,2727.73,Expense
+2025-05-01,Pharmacy,Health & Fitness,2113.37,Expense
+2025-05-02,Uber Ride,Travel,1479.6,Expense
+2025-05-03,House Rent,Rent,17393.62,Expense
+2025-05-04,House Rent,Rent,13564.03,Expense
+2025-05-04,Mobile Recharge,Utilities,1397.46,Expense
+2025-05-04,Restaurant,Food & Drink,522.02,Expense
+2025-05-05,House Rent,Rent,16099.79,Expense
+2025-05-05,Uber Ride,Travel,1327.86,Expense
+2025-05-05,Taxi,Travel,1298.85,Expense
+2025-05-07,Mall Shopping,Shopping,1158.35,Expense
+2025-05-07,Cafe Visit,Food & Drink,288.81,Expense
+2025-05-09,Groceries,Shopping,3074.79,Expense
+2025-05-09,Cafe Visit,Food & Drink,714.35,Expense
+2025-05-10,Gym Membership,Health & Fitness,2440.21,Expense
+2025-05-10,Food Delivery,Food & Drink,429.63,Expense
+2025-05-11,Restaurant,Food & Drink,1144.11,Expense
+2025-05-11,Pharmacy,Health & Fitness,1747.75,Expense
+2025-05-12,Gym Membership,Health & Fitness,3885.02,Expense
+2025-05-13,Food Delivery,Food & Drink,1010.46,Expense
+2025-05-16,Train Ticket,Travel,810.57,Expense
+2025-05-16,Mobile Recharge,Utilities,1747.64,Expense
+2025-05-17,Electricity Bill,Utilities,2414.75,Expense
+2025-05-18,Pharmacy,Health & Fitness,2037.74,Expense
+2025-05-20,Water Bill,Utilities,2085.66,Expense
+2025-05-20,Mall Shopping,Shopping,758.86,Expense
+2025-05-21,Cafe Visit,Food & Drink,829.84,Expense
+2025-05-21,Water Bill,Utilities,752.64,Expense
+2025-05-24,Bus Ticket,Travel,435.93,Expense
+2025-05-26,Groceries,Shopping,2401.73,Expense
+2025-05-26,Electricity Bill,Utilities,1278.88,Expense
+2025-05-27,Mall Shopping,Shopping,3808.18,Expense
+2025-05-29,Lunch,Food & Drink,636.49,Expense
+2025-05-29,Online Order,Shopping,3475.22,Expense
+2025-05-30,Food Delivery,Food & Drink,169.96,Expense
+2025-05-31,Clothing Purchase,Shopping,4785.67,Expense
+2025-05-31,Cafe Visit,Food & Drink,304.54,Expense
+2025-06-01,Train Ticket,Travel,1093.27,Expense
+2025-06-01,Health Checkup,Health & Fitness,2969.21,Expense
+2025-06-03,House Rent,Rent,15326.99,Expense
+2025-06-03,Train Ticket,Travel,221.39,Expense
+2025-06-03,Clothing Purchase,Shopping,1200.37,Expense
+2025-06-04,House Rent,Rent,15011.89,Expense
+2025-06-04,Bus Ticket,Travel,511.6,Expense
+2025-06-04,Dinner,Food & Drink,958.36,Expense
+2025-06-05,House Rent,Rent,14691.2,Expense
+2025-06-05,Groceries,Shopping,903.37,Expense
+2025-06-06,Health Checkup,Health & Fitness,1388.1,Expense
+2025-06-07,Gym Membership,Health & Fitness,2703.47,Expense
+2025-06-10,Mobile Recharge,Utilities,1424.17,Expense
+2025-06-10,Train Ticket,Travel,814.37,Expense
+2025-06-12,Food Delivery,Food & Drink,421.52,Expense
+2025-06-12,Electricity Bill,Utilities,980.19,Expense
+2025-06-14,Clothing Purchase,Shopping,1275.7,Expense
+2025-06-15,Dinner,Food & Drink,472.86,Expense
+2025-06-16,Mall Shopping,Shopping,2343.07,Expense
+2025-06-16,Bus Ticket,Travel,961.41,Expense
+2025-06-17,Mobile Recharge,Utilities,2177.85,Expense
+2025-06-17,Water Bill,Utilities,513.66,Expense
+2025-06-19,Mall Shopping,Shopping,2162.29,Expense
+2025-06-21,Health Checkup,Health & Fitness,3175.55,Expense
+2025-06-21,Taxi,Travel,806.89,Expense
+2025-06-22,Gym Membership,Health & Fitness,3834.61,Expense
+2025-06-23,Restaurant,Food & Drink,985.22,Expense
+2025-06-23,Clothing Purchase,Shopping,2561.76,Expense
+2025-06-24,Gym Membership,Health & Fitness,539.89,Expense
+2025-06-25,Restaurant,Food & Drink,242.01,Expense
+2025-06-25,Food Delivery,Food & Drink,410.17,Expense
+2025-06-26,Water Bill,Utilities,2449.65,Expense
+2025-06-29,Mobile Recharge,Utilities,1996.93,Expense
+2025-06-29,Train Ticket,Travel,1441.04,Expense
+2025-07-01,Pharmacy,Health & Fitness,2919.12,Expense
+2025-07-03,House Rent,Rent,17009.09,Expense
+2025-07-03,Clothing Purchase,Shopping,1052.84,Expense
+2025-07-04,House Rent,Rent,17259.02,Expense
+2025-07-05,House Rent,Rent,16067.99,Expense
+2025-07-05,Clothing Purchase,Shopping,2916.62,Expense
+2025-07-05,Health Checkup,Health & Fitness,383.22,Expense
+2025-07-06,Uber Ride,Travel,1323.92,Expense
+2025-07-06,Health Checkup,Health & Fitness,3026.29,Expense
+2025-07-07,Train Ticket,Travel,1150.88,Expense
+2025-07-07,Online Order,Shopping,4736.46,Expense
+2025-07-08,Restaurant,Food & Drink,206.55,Expense
+2025-07-08,Train Ticket,Travel,672.97,Expense
+2025-07-12,Lunch,Food & Drink,957.23,Expense
+2025-07-12,Restaurant,Food & Drink,905.07,Expense
+2025-07-13,Uber Ride,Travel,195.49,Expense
+2025-07-13,Health Checkup,Health & Fitness,1227.95,Expense
+2025-07-15,Health Checkup,Health & Fitness,1279.7,Expense
+2025-07-15,Food Delivery,Food & Drink,898.26,Expense
+2025-07-16,Water Bill,Utilities,1903.57,Expense
+2025-07-16,Train Ticket,Travel,598.33,Expense
+2025-07-18,Cafe Visit,Food & Drink,277.36,Expense
+2025-07-19,Taxi,Travel,633.05,Expense
+2025-07-19,Water Bill,Utilities,1660.92,Expense
+2025-07-20,Water Bill,Utilities,2180.01,Expense
+2025-07-20,Water Bill,Utilities,1071.38,Expense
+2025-07-22,Gym Membership,Health & Fitness,2096.83,Expense
+2025-07-22,Internet Bill,Utilities,2323.63,Expense
+2025-07-23,Lunch,Food & Drink,819.12,Expense
+2025-07-23,Water Bill,Utilities,1828.24,Expense
+2025-07-24,Gym Membership,Health & Fitness,1495.42,Expense
+2025-07-24,Groceries,Shopping,4694.06,Expense
+2025-07-25,Taxi,Travel,429.43,Expense
+2025-07-25,Cafe Visit,Food & Drink,634.8,Expense
+2025-07-26,Water Bill,Utilities,1176.01,Expense
+2025-07-26,Gym Membership,Health & Fitness,3674.16,Expense
+2025-07-28,Train Ticket,Travel,312.41,Expense
+2025-07-28,Food Delivery,Food & Drink,202.13,Expense
+2025-07-29,Bus Ticket,Travel,546.62,Expense
+2025-07-30,Taxi,Travel,646.15,Expense
+2025-07-30,Groceries,Shopping,4903.41,Expense
+2025-08-01,Cafe Visit,Food & Drink,229.26,Expense
+2025-08-01,Pharmacy,Health & Fitness,2327.23,Expense
+2025-08-03,House Rent,Rent,14676.75,Expense
+2025-08-04,House Rent,Rent,12571.09,Expense
+2025-08-04,Gym Membership,Health & Fitness,2182.95,Expense
+2025-08-05,House Rent,Rent,15183.54,Expense
+2025-08-06,Water Bill,Utilities,2036.35,Expense
+2025-08-07,Water Bill,Utilities,1440.88,Expense
+2025-08-07,Mall Shopping,Shopping,1379.06,Expense
+2025-08-08,Cafe Visit,Food & Drink,173.06,Expense
+2025-08-08,Uber Ride,Travel,381.04,Expense
+2025-08-10,Online Order,Shopping,4328.08,Expense
+2025-08-11,Taxi,Travel,600.0,Expense
+2025-08-11,Clothing Purchase,Shopping,533.47,Expense
+2025-08-12,Dinner,Food & Drink,675.98,Expense
+2025-08-12,Health Checkup,Health & Fitness,3678.14,Expense
+2025-08-14,Taxi,Travel,892.01,Expense
+2025-08-15,Pharmacy,Health & Fitness,731.43,Expense
+2025-08-19,Pharmacy,Health & Fitness,3035.53,Expense
+2025-08-19,Taxi,Travel,845.3,Expense
+2025-08-21,Bus Ticket,Travel,529.44,Expense
+2025-08-22,Pharmacy,Health & Fitness,3278.61,Expense
+2025-08-23,Health Checkup,Health & Fitness,667.79,Expense
+2025-08-25,Train Ticket,Travel,788.77,Expense
+2025-08-26,Lunch,Food & Drink,970.06,Expense
+2025-08-26,Clothing Purchase,Shopping,1844.71,Expense
+2025-08-27,Internet Bill,Utilities,1850.15,Expense
+2025-08-29,Train Ticket,Travel,91.49,Expense
+2025-08-30,Food Delivery,Food & Drink,750.2,Expense
+2025-08-31,Food Delivery,Food & Drink,855.79,Expense
+2025-09-01,Internet Bill,Utilities,702.96,Expense
+2025-09-01,Electricity Bill,Utilities,1285.49,Expense
+2025-09-03,House Rent,Rent,17598.38,Expense
+2025-09-03,Bus Ticket,Travel,917.63,Expense
+2025-09-03,Uber Ride,Travel,1225.89,Expense
+2025-09-04,House Rent,Rent,14830.99,Expense
+2025-09-04,Uber Ride,Travel,626.05,Expense
+2025-09-04,Internet Bill,Utilities,1956.8,Expense
+2025-09-05,House Rent,Rent,17801.05,Expense
+2025-09-06,Uber Ride,Travel,959.93,Expense
+2025-09-07,Food Delivery,Food & Drink,576.82,Expense
+2025-09-08,Groceries,Shopping,2965.32,Expense
+2025-09-10,Health Checkup,Health & Fitness,3663.58,Expense
+2025-09-10,Lunch,Food & Drink,759.19,Expense
+2025-09-11,Pharmacy,Health & Fitness,1247.27,Expense
+2025-09-11,Online Order,Shopping,1652.81,Expense
+2025-09-12,Taxi,Travel,519.93,Expense
+2025-09-12,Bus Ticket,Travel,1289.76,Expense
+2025-09-13,Online Order,Shopping,4535.98,Expense
+2025-09-14,Uber Ride,Travel,157.29,Expense
+2025-09-14,Online Order,Shopping,4399.55,Expense
+2025-09-17,Internet Bill,Utilities,848.86,Expense
+2025-09-17,Online Order,Shopping,1335.09,Expense
+2025-09-19,Taxi,Travel,914.93,Expense
+2025-09-19,Taxi,Travel,1309.22,Expense
+2025-09-20,Lunch,Food & Drink,339.38,Expense
+2025-09-20,Clothing Purchase,Shopping,3410.63,Expense
+2025-09-25,Health Checkup,Health & Fitness,2539.12,Expense
+2025-09-26,Internet Bill,Utilities,1430.52,Expense
+2025-09-26,Bus Ticket,Travel,643.87,Expense
+2025-09-28,Uber Ride,Travel,753.49,Expense
+2025-09-30,Groceries,Shopping,1386.99,Expense
+2025-09-30,Food Delivery,Food & Drink,624.42,Expense
+2025-10-01,Mobile Recharge,Utilities,2102.51,Expense
+2025-10-01,Train Ticket,Travel,879.27,Expense
+2025-10-03,House Rent,Rent,13746.57,Expense
+2025-10-03,Health Checkup,Health & Fitness,2002.07,Expense
+2025-10-03,Pharmacy,Health & Fitness,3563.9,Expense
+2025-10-04,House Rent,Rent,13549.51,Expense
+2025-10-05,House Rent,Rent,13057.87,Expense
+2025-10-05,Groceries,Shopping,2511.89,Expense
+2025-10-07,Health Checkup,Health & Fitness,395.6,Expense
+2025-10-07,Groceries,Shopping,1826.39,Expense
+2025-10-09,Uber Ride,Travel,1145.9,Expense
+2025-10-10,Water Bill,Utilities,2006.97,Expense
+2025-10-10,Health Checkup,Health & Fitness,1380.46,Expense
+2025-10-12,Cafe Visit,Food & Drink,239.6,Expense
+2025-10-12,Water Bill,Utilities,2132.5,Expense
+2025-10-13,Health Checkup,Health & Fitness,3201.83,Expense
+2025-10-13,Cafe Visit,Food & Drink,534.9,Expense
+2025-10-14,Groceries,Shopping,3911.61,Expense
+2025-10-15,Pharmacy,Health & Fitness,2168.47,Expense
+2025-10-15,Online Order,Shopping,3869.6,Expense
+2025-10-17,Uber Ride,Travel,181.27,Expense
+2025-10-18,Water Bill,Utilities,1243.48,Expense
+2025-10-18,Pharmacy,Health & Fitness,3550.13,Expense
+2025-10-19,Clothing Purchase,Shopping,1570.13,Expense
+2025-10-19,Water Bill,Utilities,624.1,Expense
+2025-10-20,Gym Membership,Health & Fitness,1068.39,Expense
+2025-10-21,Gym Membership,Health & Fitness,2187.69,Expense
+2025-10-21,Online Order,Shopping,720.39,Expense
+2025-10-22,Uber Ride,Travel,810.98,Expense
+2025-10-22,Bus Ticket,Travel,271.6,Expense
+2025-10-23,Internet Bill,Utilities,324.48,Expense
+2025-10-24,Pharmacy,Health & Fitness,3428.52,Expense
+2025-10-24,Restaurant,Food & Drink,464.66,Expense
+2025-10-25,Mall Shopping,Shopping,846.03,Expense
+2025-10-25,Train Ticket,Travel,644.61,Expense
+2025-10-26,Lunch,Food & Drink,639.42,Expense
+2025-10-27,Online Order,Shopping,2289.02,Expense
+2025-10-29,Water Bill,Utilities,893.44,Expense
+2025-10-30,Dinner,Food & Drink,827.98,Expense
+2025-10-30,Lunch,Food & Drink,655.57,Expense
+2025-10-31,Gym Membership,Health & Fitness,1077.21,Expense
+2025-10-31,Gym Membership,Health & Fitness,2236.75,Expense
+2025-11-01,Online Order,Shopping,2777.46,Expense
+2025-11-01,Groceries,Shopping,2540.06,Expense
+2025-11-03,House Rent,Rent,15824.5,Expense
+2025-11-04,House Rent,Rent,15294.23,Expense
+2025-11-04,Gym Membership,Health & Fitness,3316.29,Expense
+2025-11-05,House Rent,Rent,13958.34,Expense
+2025-11-05,Clothing Purchase,Shopping,2945.44,Expense
+2025-11-07,Groceries,Shopping,4515.24,Expense
+2025-11-07,Groceries,Shopping,1953.23,Expense
+2025-11-09,Electricity Bill,Utilities,2396.34,Expense
+2025-11-09,Taxi,Travel,412.44,Expense
+2025-11-14,Gym Membership,Health & Fitness,879.29,Expense
+2025-11-15,Food Delivery,Food & Drink,675.33,Expense
+2025-11-15,Health Checkup,Health & Fitness,2983.42,Expense
+2025-11-16,Mall Shopping,Shopping,1831.58,Expense
+2025-11-16,Train Ticket,Travel,154.05,Expense
+2025-11-17,Uber Ride,Travel,1282.87,Expense
+2025-11-17,Dinner,Food & Drink,504.38,Expense
+2025-11-20,Online Order,Shopping,3888.01,Expense
+2025-11-20,Electricity Bill,Utilities,1957.65,Expense
+2025-11-21,Food Delivery,Food & Drink,980.15,Expense
+2025-11-22,Mall Shopping,Shopping,1229.66,Expense
+2025-11-22,Mall Shopping,Shopping,3344.43,Expense
+2025-11-23,Health Checkup,Health & Fitness,3663.67,Expense
+2025-11-24,Train Ticket,Travel,669.34,Expense
+2025-11-24,Water Bill,Utilities,1799.66,Expense
+2025-11-25,Bus Ticket,Travel,1080.76,Expense
+2025-11-25,Pharmacy,Health & Fitness,3810.94,Expense
+2025-11-26,Online Order,Shopping,4031.16,Expense
+2025-11-26,Mall Shopping,Shopping,3040.79,Expense
+2025-11-27,Taxi,Travel,1444.26,Expense
+2025-11-27,Internet Bill,Utilities,560.21,Expense
+2025-11-29,Taxi,Travel,425.26,Expense
+2025-11-29,Restaurant,Food & Drink,1143.4,Expense
+2025-12-01,Groceries,Shopping,3651.1,Expense
+2025-12-01,Uber Ride,Travel,949.34,Expense
+2025-12-02,Gym Membership,Health & Fitness,3620.35,Expense
+2025-12-03,House Rent,Rent,17644.7,Expense
+2025-12-03,Pharmacy,Health & Fitness,3840.82,Expense
+2025-12-04,House Rent,Rent,14209.72,Expense
+2025-12-05,House Rent,Rent,12809.91,Expense
+2025-12-05,Train Ticket,Travel,1350.19,Expense
+2025-12-05,Water Bill,Utilities,1671.23,Expense
+2025-12-07,Uber Ride,Travel,767.24,Expense
+2025-12-07,Dinner,Food & Drink,217.17,Expense
+2025-12-09,Mobile Recharge,Utilities,2093.58,Expense
+2025-12-12,Food Delivery,Food & Drink,263.26,Expense
+2025-12-12,Mall Shopping,Shopping,4769.82,Expense
+2025-12-15,Bus Ticket,Travel,623.99,Expense
+2025-12-16,Cafe Visit,Food & Drink,485.13,Expense
+2025-12-18,Dinner,Food & Drink,650.15,Expense
+2025-12-18,Uber Ride,Travel,1314.51,Expense
+2025-12-21,Groceries,Shopping,3437.09,Expense
+2025-12-21,Restaurant,Food & Drink,862.71,Expense
+2025-12-22,Taxi,Travel,141.94,Expense
+2025-12-23,Bus Ticket,Travel,512.39,Expense
+2025-12-26,Health Checkup,Health & Fitness,1648.59,Expense
+2025-12-27,Pharmacy,Health & Fitness,3963.28,Expense
+2025-12-29,Internet Bill,Utilities,913.28,Expense
+2025-12-30,Mobile Recharge,Utilities,1497.64,Expense
+2025-12-31,Gym Membership,Health & Fitness,1489.46,Expense
+2025-12-31,Internet Bill,Utilities,820.09,Expense
+2026-01-02,Mobile Recharge,Utilities,2260.01,Expense
+2026-01-03,House Rent,Rent,13443.52,Expense
+2026-01-03,Clothing Purchase,Shopping,696.46,Expense
+2026-01-03,Online Order,Shopping,729.98,Expense
+2026-01-04,House Rent,Rent,12670.86,Expense
+2026-01-04,Health Checkup,Health & Fitness,993.34,Expense
+2026-01-05,House Rent,Rent,16541.39,Expense
+2026-01-05,Bus Ticket,Travel,1121.8,Expense
+2026-01-05,Food Delivery,Food & Drink,736.78,Expense
+2026-01-06,Pharmacy,Health & Fitness,2270.0,Expense
+2026-01-06,Pharmacy,Health & Fitness,2147.46,Expense
+2026-01-07,Taxi,Travel,1462.27,Expense
+2026-01-07,Pharmacy,Health & Fitness,3176.1,Expense
+2026-01-08,Water Bill,Utilities,979.04,Expense
+2026-01-09,Online Order,Shopping,4222.05,Expense
+2026-01-10,Mobile Recharge,Utilities,1055.79,Expense
+2026-01-13,Mobile Recharge,Utilities,1973.2,Expense
+2026-01-16,Pharmacy,Health & Fitness,3508.51,Expense
+2026-01-16,Uber Ride,Travel,670.28,Expense
+2026-01-18,Cafe Visit,Food & Drink,233.58,Expense
+2026-01-18,Health Checkup,Health & Fitness,1823.72,Expense
+2026-01-19,Food Delivery,Food & Drink,1089.77,Expense
+2026-01-19,Groceries,Shopping,2670.56,Expense
+2026-01-21,Pharmacy,Health & Fitness,1011.0,Expense
+2026-01-22,Internet Bill,Utilities,1137.01,Expense
+2026-01-22,Mobile Recharge,Utilities,360.52,Expense
+2026-01-23,Dinner,Food & Drink,422.01,Expense
+2026-01-23,Online Order,Shopping,2808.25,Expense
+2026-01-25,Train Ticket,Travel,562.18,Expense
+2026-01-25,Restaurant,Food & Drink,644.71,Expense
+2026-01-26,Uber Ride,Travel,1473.03,Expense
+2026-01-26,Dinner,Food & Drink,981.39,Expense
+2026-01-27,Dinner,Food & Drink,812.28,Expense
+2026-01-27,Uber Ride,Travel,654.08,Expense
+2026-01-28,Mobile Recharge,Utilities,1585.27,Expense
+2026-01-30,Groceries,Shopping,2592.47,Expense
+2026-01-31,Mall Shopping,Shopping,1123.63,Expense
+2026-01-31,Health Checkup,Health & Fitness,1180.44,Expense
+2026-02-01,Mobile Recharge,Utilities,1135.24,Expense
+2026-02-03,House Rent,Rent,13073.51,Expense
+2026-02-04,House Rent,Rent,16316.71,Expense
+2026-02-04,Lunch,Food & Drink,274.21,Expense
+2026-02-05,House Rent,Rent,17209.54,Expense
+2026-02-05,Dinner,Food & Drink,324.82,Expense
+2026-02-05,Lunch,Food & Drink,701.54,Expense
+2026-02-06,Electricity Bill,Utilities,2162.59,Expense
+2026-02-06,Electricity Bill,Utilities,1915.82,Expense
+2026-02-07,Pharmacy,Health & Fitness,1232.16,Expense
+2026-02-07,Bus Ticket,Travel,645.58,Expense
+2026-02-08,Gym Membership,Health & Fitness,588.06,Expense
+2026-02-08,Electricity Bill,Utilities,418.58,Expense
+2026-02-09,Dinner,Food & Drink,961.32,Expense
+2026-02-10,Health Checkup,Health & Fitness,904.8,Expense
+2026-02-10,Uber Ride,Travel,206.17,Expense
+2026-02-11,Electricity Bill,Utilities,1195.48,Expense
+2026-02-11,Food Delivery,Food & Drink,855.27,Expense
+2026-02-12,Gym Membership,Health & Fitness,604.09,Expense
+2026-02-12,Online Order,Shopping,1647.52,Expense
+2026-02-14,Uber Ride,Travel,894.49,Expense
+2026-02-14,Lunch,Food & Drink,640.55,Expense
+2026-02-16,Pharmacy,Health & Fitness,3708.53,Expense
+2026-02-17,Groceries,Shopping,2054.46,Expense
+2026-02-17,Pharmacy,Health & Fitness,3656.98,Expense
+2026-02-18,Uber Ride,Travel,449.38,Expense
+2026-02-19,Dinner,Food & Drink,1164.87,Expense
+2026-02-20,Lunch,Food & Drink,1171.02,Expense
+2026-02-21,Taxi,Travel,816.48,Expense
+2026-02-22,Electricity Bill,Utilities,2290.59,Expense
+2026-02-23,Bus Ticket,Travel,1293.45,Expense
+2026-02-23,Health Checkup,Health & Fitness,1221.08,Expense
+2026-02-24,Water Bill,Utilities,1351.31,Expense
+2026-02-24,Water Bill,Utilities,517.88,Expense
+2026-02-25,Electricity Bill,Utilities,1528.23,Expense
+2026-02-25,Groceries,Shopping,1230.36,Expense
+2026-02-28,Cafe Visit,Food & Drink,986.05,Expense
+2026-02-28,Uber Ride,Travel,549.75,Expense
+2026-03-02,Cafe Visit,Food & Drink,712.62,Expense
+2026-03-03,House Rent,Rent,14144.33,Expense
+2026-03-03,Restaurant,Food & Drink,559.02,Expense
+2026-03-04,House Rent,Rent,15579.48,Expense
+2026-03-05,House Rent,Rent,15290.38,Expense
+2026-03-08,Taxi,Travel,1068.65,Expense
+2026-03-08,Uber Ride,Travel,463.39,Expense
+2026-03-09,Lunch,Food & Drink,733.02,Expense
+2026-03-09,Health Checkup,Health & Fitness,2505.92,Expense
+2026-03-10,Restaurant,Food & Drink,518.61,Expense
+2026-03-10,Internet Bill,Utilities,1637.97,Expense
+2026-03-11,Bus Ticket,Travel,847.4,Expense
+2026-03-11,Bus Ticket,Travel,173.82,Expense
+2026-03-12,Dinner,Food & Drink,217.07,Expense
+2026-03-12,Health Checkup,Health & Fitness,3665.53,Expense
+2026-03-13,Groceries,Shopping,1298.84,Expense
+2026-03-14,Water Bill,Utilities,1463.16,Expense
+2026-03-16,Groceries,Shopping,4372.82,Expense
+2026-03-16,Train Ticket,Travel,164.86,Expense
+2026-03-19,Health Checkup,Health & Fitness,2887.9,Expense
+2026-03-19,Health Checkup,Health & Fitness,1098.65,Expense
+2026-03-20,Internet Bill,Utilities,749.17,Expense
+2026-03-20,Bus Ticket,Travel,474.15,Expense
+2026-03-21,Internet Bill,Utilities,311.09,Expense
+2026-03-21,Mobile Recharge,Utilities,1516.53,Expense
+2026-03-23,Cafe Visit,Food & Drink,1041.94,Expense
+2026-03-24,Train Ticket,Travel,816.44,Expense
+2026-03-25,Electricity Bill,Utilities,1976.06,Expense
+2026-03-25,Internet Bill,Utilities,375.09,Expense
+2026-03-26,Gym Membership,Health & Fitness,714.31,Expense
+2026-03-26,Mobile Recharge,Utilities,1336.37,Expense
+2026-03-29,Electricity Bill,Utilities,1742.34,Expense
+2026-03-29,Clothing Purchase,Shopping,1896.61,Expense
+2026-03-30,Health Checkup,Health & Fitness,1088.9,Expense
+2026-04-03,House Rent,Rent,12897.53,Expense
+2026-04-04,House Rent,Rent,12882.72,Expense
+2026-04-04,Taxi,Travel,500.16,Expense
+2026-04-05,House Rent,Rent,14547.3,Expense
+2026-04-05,Internet Bill,Utilities,1053.95,Expense
+2026-04-09,Uber Ride,Travel,203.61,Expense
+2026-04-10,Internet Bill,Utilities,1087.08,Expense
+2026-04-11,Groceries,Shopping,4185.3,Expense
+2026-04-11,Lunch,Food & Drink,1093.51,Expense
+2026-04-13,Bus Ticket,Travel,746.2,Expense
+2026-04-13,Food Delivery,Food & Drink,1172.74,Expense
+2026-04-14,Bus Ticket,Travel,1033.75,Expense
+2026-04-15,Online Order,Shopping,3041.9,Expense
+2026-04-16,Health Checkup,Health & Fitness,381.53,Expense
+2026-04-16,Gym Membership,Health & Fitness,345.18,Expense
+2026-04-18,Food Delivery,Food & Drink,1140.26,Expense
+2026-04-21,Bus Ticket,Travel,1126.71,Expense
+2026-04-21,Online Order,Shopping,4537.71,Expense
+2026-04-22,Bus Ticket,Travel,1062.9,Expense
+2026-04-23,Taxi,Travel,527.71,Expense
+2026-04-23,Uber Ride,Travel,708.31,Expense
+2026-04-24,Health Checkup,Health & Fitness,2446.84,Expense
+2026-04-24,Mobile Recharge,Utilities,2038.44,Expense
+2026-04-26,Pharmacy,Health & Fitness,2223.61,Expense
+2026-04-28,Mobile Recharge,Utilities,443.44,Expense
+2026-04-28,Lunch,Food & Drink,946.73,Expense
+2026-04-29,Pharmacy,Health & Fitness,2631.23,Expense
+2026-04-30,Dinner,Food & Drink,394.31,Expense
+2026-05-01,Cafe Visit,Food & Drink,899.71,Expense
+2026-05-01,Electricity Bill,Utilities,1105.21,Expense
+2026-05-02,Online Order,Shopping,4914.53,Expense
+2026-05-03,House Rent,Rent,15008.69,Expense
+2026-05-03,Internet Bill,Utilities,1954.61,Expense
+2026-05-04,House Rent,Rent,13672.64,Expense
+2026-05-05,House Rent,Rent,16540.08,Expense
+2026-05-05,Internet Bill,Utilities,598.23,Expense
+2026-05-05,Mall Shopping,Shopping,2005.7,Expense
+2026-05-06,Mobile Recharge,Utilities,2072.92,Expense
+2026-05-07,Mobile Recharge,Utilities,1815.49,Expense
+2026-05-08,Electricity Bill,Utilities,1500.12,Expense
+2026-05-09,Gym Membership,Health & Fitness,3674.62,Expense
+2026-05-10,Restaurant,Food & Drink,369.13,Expense
+2026-05-12,Water Bill,Utilities,1107.8,Expense
+2026-05-12,Pharmacy,Health & Fitness,1311.59,Expense
+2026-05-13,Gym Membership,Health & Fitness,337.36,Expense
+2026-05-15,Bus Ticket,Travel,617.28,Expense
+2026-05-15,Health Checkup,Health & Fitness,3787.28,Expense
+2026-05-16,Uber Ride,Travel,897.92,Expense
+2026-05-17,Electricity Bill,Utilities,465.06,Expense
+2026-05-17,Lunch,Food & Drink,438.47,Expense
+2026-05-19,Mall Shopping,Shopping,3121.72,Expense
+2026-05-19,Uber Ride,Travel,960.99,Expense
+2026-05-20,Water Bill,Utilities,1810.14,Expense
+2026-05-21,Clothing Purchase,Shopping,1294.49,Expense
+2026-05-21,Pharmacy,Health & Fitness,2716.03,Expense
+2026-05-22,Internet Bill,Utilities,806.2,Expense
+2026-05-24,Restaurant,Food & Drink,634.85,Expense
+2026-05-25,Clothing Purchase,Shopping,1196.17,Expense
+2026-05-25,Online Order,Shopping,1574.35,Expense
+2026-05-26,Groceries,Shopping,2734.31,Expense
+2026-05-28,Internet Bill,Utilities,1716.08,Expense
+2026-05-28,Health Checkup,Health & Fitness,2915.43,Expense
+2026-05-29,Internet Bill,Utilities,829.03,Expense
+2026-05-29,Train Ticket,Travel,1279.38,Expense
+2026-05-30,Health Checkup,Health & Fitness,3897.73,Expense
+2026-05-31,Taxi,Travel,1302.64,Expense
+2026-05-31,Restaurant,Food & Drink,386.25,Expense
+2026-06-01,Mobile Recharge,Utilities,557.8,Expense
+2026-06-02,Uber Ride,Travel,582.92,Expense
+2026-06-02,Bus Ticket,Travel,765.63,Expense
+2026-06-03,House Rent,Rent,17422.39,Expense
+2026-06-04,House Rent,Rent,14412.87,Expense
+2026-06-04,Uber Ride,Travel,607.97,Expense
+2026-06-05,House Rent,Rent,15573.36,Expense
+2026-06-07,Online Order,Shopping,3958.2,Expense
+2026-06-07,Mobile Recharge,Utilities,1017.17,Expense
+2026-06-08,Mobile Recharge,Utilities,1490.41,Expense
+2026-03-08,Uber Ride,Travel,5944.712709,Expense
+2026-03-09,Lunch,Food & Drink,5975.838203,Expense
+2026-03-09,Health Checkup,Health & Fitness,6006.963698,Expense
+2026-03-10,Restaurant,Food & Drink,6038.089193,Expense
+2026-03-10,Internet Bill,Utilities,6069.214688,Expense
+2026-03-11,Bus Ticket,Travel,6100.340183,Expense
+2026-06-17,cab,Travel,150.0,Expense
+2026-06-17,clothes,Travel,2301.0,Expense
+2026-06-17,electricity bill,Utilities,1000.0,Expense
+2026-06-17,groceries,Shopping,200.0,Expense
+2026-06-17,movie,Entertainment,352.0,Expense
